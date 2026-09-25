@@ -1,0 +1,9 @@
+dataset/
+eda_out/
+__pycache__/
+*.pyc
+*.parquet
+*.bak
+*.lgb
+*_meta.json
+translit_dict.json
