@@ -1,0 +1,83 @@
+candidates: 400,000 S1 rows in parquet, using 400,000
+records: 9,525,015 normalized in 182s
+features: 79,974,527 pairs built, 22,260,061 kept (28%, 8.0 GB) x 97 in 530s
+
+==================== SANITY CHECKS ====================
+pairs kept 22,260,061 | positives 1,351,448 | S1 rows 400,000 (with >=1 true match: 94.4%) | avg true matches/S1 3.46
+ground truth: S2/S3 ids listed under more than one S1: 0 (owner-exclusive assumption holds)
+candidates per S1 row: max 200, mean 199.9 -- predict_matches.py trims test rows to the same 200 (rank features/g_n would otherwise be out of range)
+S1 rows with zero candidates: 0.00% | true pairs in candidates: 97.64% (blocking recall at topk used)
+train pairs 18,260,750 (S1 rows 380,000; negatives: all ranked <40 + 5% of the rest, weighted) | val pairs 3,999,311 | val S1 rows 20,000
+stage 1 LightGBM: best_iteration=827 in 586s
+stage 1 seed ensemble: trained 2 extra model(s) in 1353s (judged on the FINAL pipeline below, after stage 2)
+stage 1: macro F0.5 0.9771 with expected-F0.5 m_extra=0.7 empty_bias=7.0 owner_exclusive=True  (rule grid 968 in 174s)
+   best thresholds rule 0.9764 | best expected-F0.5 rule 0.9771
+
+==================== STAGE 2 (consensus) ====================
+out-of-fold stage-1 p for train rows in 1312s (OOF AUC nan vs val 0.99993)
+stage-2 pairs: 1,654,161 of 22,260,061 (7.4%) have p1 >= 0.002 | val positives below tau0 (unreachable for stage 2): 10 of 67,660 | 9s
+stage 2 LightGBM: best_iteration=251 in 40s
+stage 2: macro F0.5 0.9796 with expected-F0.5 m_extra=0.1 empty_bias=1.2 owner_exclusive=True   (stage 1: 0.9771, delta +0.252 pts)
+stage 2 gain share: consensus features 97.3% | top: p1_logit=59.9%, p1=35.4%, rank=0.7%, p_second_row=0.2%, sup_addr=0.2%, n_conf_same_src=0.2%, p_gap_top=0.2%, p_ratio=0.2%, p_sum_row=0.1%, sup_cnt=0.1%, rev_r_gap=0.1%, log_rank=0.1%
+=> stage 2 is used (saved as model2.txt)
+seed ensemble of 3 (final pipeline): macro F0.5 0.9799 vs single model 0.9796 -> ensemble USED
+  !! constant (useless) features: ['fam_tfidf', 'a_empty_both', 'tfidf_ran', 'log_hits_tfidf']
+
+==================== HEADLINE (validation S1 rows, singletons included) ====================
+macro F0.5 = 0.9799   (stage 2; expected-F0.5 m_extra=0.1 empty_bias=1.5 owner_exclusive=False)
+  single global threshold, no owner-exclusive (old approach): 0.9795
+  blocking ceiling (perfect matcher on these candidates):     0.9928
+  gap to ceiling: 0.0129  | stage-1 val AUC 0.99994 (train 0.99996)
+
+==================== LOSS LEDGER: where 1 - F0.5 goes ====================
+category                                                       rows  F0.5 pts lost  lever
+partial_recall_matcher (in candidates, not predicted)         1,452         0.572  lower t_extra / model / stage 2
+partial_recall_blocking (not in candidates)                   1,419         0.537  blocking: topk / sibling expansion
+partial_extra_fp                                                314         0.365  raise t_extra / owner-exclusive / stage 2
+abstained_findable                                               50         0.250  lower t_top / model recall
+blocking_total_miss (abstained, nothing findable)                35         0.175  blocking: keys/expansion/topk
+singleton_false_merge                                            22         0.110  raise t_top / better singleton features
+wrong_pick_findable                                               1         0.005  model features (discriminate near-duplicates)
+blocking_total_miss + wrong pick                                  0         0.000  blocking + raise t_top
+TOTAL (must equal 1 - F0.5)                                                 2.014  check: 2.014
+=> blocking-caused 0.71 pts | matcher/decision-caused 1.30 pts
+rejected TRUE pairs by p (low p = model/features, mid p = decision rule): [0,0.01):35  [0.01,0.1):320  [0.1,0.3):403  [0.3,0.5):419  [0.5,0.7):384  [0.7,1):104
+accepted FALSE pairs by p: [0,0.01):0  [0.01,0.1):0  [0.1,0.3):0  [0.3,0.5):2  [0.5,0.7):22  [0.7,1):325
+accepted FALSE pairs: 40.4% are records that truly belong to ANOTHER S1 (competition: reverse/owner features help), 59.6% belong to no S1 (unowned records) | in singleton rows: 27 FPs, 22.2% owned by another S1
+
+==================== SEGMENTS ====================
+-- by country
+   value          rows    F0.5  blocking  fp-side recall-side
+   India        10,004  0.9802     0.74p    0.46p       0.79p
+   US            9,996  0.9796     0.68p    0.50p       0.86p
+-- by #true
+   value          rows    F0.5  blocking  fp-side recall-side
+   0             1,144  0.9808     0.00p    1.92p       0.00p
+   1             1,088  0.9315     2.39p    1.15p       3.31p
+   2             3,264  0.9750     0.86p    0.70p       0.94p
+   3             4,914  0.9825     0.66p    0.40p       0.68p
+   4-5           7,293  0.9856     0.58p    0.22p       0.64p
+   6+            2,297  0.9852     0.61p    0.12p       0.75p
+-- by union size
+   value          rows    F0.5  blocking  fp-side recall-side
+   10-99             2  0.9545     4.55p    0.00p       0.00p
+   100-999       1,975  0.9743     1.06p    0.63p       0.89p
+   1000+        18,023  0.9805     0.67p    0.46p       0.82p
+-- by S1 addr empty
+   value          rows    F0.5  blocking  fp-side recall-side
+   False        20,000  0.9799     0.71p    0.48p       0.82p
+-- by S1 native script
+   value          rows    F0.5  blocking  fp-side recall-side
+   False        20,000  0.9799     0.71p    0.48p       0.82p
+
+==================== THRESHOLD LANDSCAPE (final scores, threshold rule) ====================
+t_extra sweep at best t_top/owner-exclusive:  0.05:0.9351  0.1:0.9515  0.2:0.9648  0.3:0.9708  0.4:0.9745  0.5:0.9771  0.6:0.9789  0.7:0.9796  0.8:0.9796  0.85:0.9793  0.9:0.9784  0.93:0.9775  0.95:0.9762  0.97:0.9740  0.98:0.9715  0.99:0.9657  0.995:0.9581  0.998:0.9420  0.999:0.9278  0.9995:0.9067
+t_top sweep at best t_extra/owner-exclusive:  0.05:0.9720  0.1:0.9750  0.2:0.9779  0.3:0.9788  0.4:0.9793  0.5:0.9795  0.6:0.9796  0.7:0.9796  0.8:0.9789  0.85:0.9787  0.9:0.9779  0.93:0.9776  0.95:0.9772  0.97:0.9760  0.98:0.9744  0.99:0.9704  0.995:0.9650  0.998:0.9533  0.999:0.9392  0.9995:0.9157
+owner-exclusive on vs off: 0.9796 vs 0.9796  (sampled validation hides competing S1 rows -- judge owner-exclusive on the test contention report)
+
+==================== MODEL (stage 1) ====================
+calibration (val): [0.0,0.1) n=3,927,056 pos=0.0%  [0.1,0.2) n=2,231 pos=11.3%  [0.2,0.3) n=1,130 pos=19.2%  [0.3,0.4) n=772 pos=27.1%  [0.4,0.5) n=673 pos=33.9%  [0.5,0.6) n=528 pos=43.8%  [0.6,0.7) n=550 pos=56.0%  [0.7,0.8) n=556 pos=70.5%  [0.8,0.9) n=1,003 pos=83.3%  [0.9,1.0) n=64,812 pos=99.7%
+gain share by group: blocking=1.6%, name_str=3.2%, addr_str=0.2%, numeric=9.5%, flags=0.1%, group=0.4%, row=0.3%, reverse=82.4%, idf=2.2%, namefreq=0.2%
+top 25 features: rev_r_gap=71.7%, rev_top_r=10.2%, num_jacc=4.9%, num_suffix=2.2%, num_both=1.6%, rank=1.2%, n_jw_sq=1.2%, n_ratio=0.9%, num_min_reldiff=0.6%, a_soft_miss_b=0.6%, n_soft_miss_b=0.3%, n_len_ratio=0.3%, n_idf_miss_b=0.3%, a_soft_cov=0.3%, n_partial=0.2%, a_idf_cov=0.2%, rank_score=0.2%, rev_ja_gap=0.1%, rev_r_other=0.1%, a_tset=0.1%, rev_jn_gap=0.1%, num_prefix=0.1%, g_nratio_gap=0.1%, n_tsort=0.1%, a_idf_miss_b=0.1%
+
+saved model/meta/report/examples to matcher_v9/  (total 4790s)

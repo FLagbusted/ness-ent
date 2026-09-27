@@ -1,0 +1,1286 @@
+
+########## singleton_false_merge: 22 rows (showing 22) ##########
+
+S1 S1-907976608 | surgical associates | 3620 forestdale avenue, prince william county, va   [US, #true=0, in-cands=0, union=801]
+   PRED      p=0.740 p1=0.762 rank=2  S3-563608252 | surgical assocates | 362 forestdale ave, po box 9059, prince william county, virginia
+             p=0.345 p1=0.442 rank=13  S3-162714896 | surgical asgies | 362 forestdale avenue, woodbridge, virginia
+             p=0.042 p1=0.059 rank=143  S2-857687085 | surgical associates | 
+             p=0.041 p1=0.066 rank=136  S2-125006244 | surgical associates | 
+             p=0.023 p1=0.030 rank=64  S3-180630171 | surgical associates | 
+             p=0.022 p1=0.031 rank=61  S3-578250174 | surgical associates | 
+             p=0.016 p1=0.018 rank=187  S3-615698053 | surgical-associates | 
+             p=0.000 p1=0.000 rank=129  S2-632373391 | surgical associates | 3698 oak, skiatook, ok
+
+S1 S1-15988024 | western desert california | ok, 833 florence avenue, tulsa   [US, #true=0, in-cands=0, union=3336]
+   PRED      p=0.741 p1=0.878 rank=1  S2-321776871 | western desert california | 83 florence ave, tulsa, ok
+             p=0.039 p1=0.047 rank=102  S3-593076757 | western desert hsmer | 
+             p=0.032 p1=0.010 rank=0  S2-54565686 | western desert california group | 83 florence avenue, tulsa, ok
+             p=0.000 p1=0.000 rank=128  S2-96975427 | desert | 7056 cromwell avenue, salisbury, md
+             p=0.000 p1=0.000 rank=129  S2-270725099 | western | berry avenue, independence, mo
+             p=0.000 p1=0.000 rank=130  S2-592475306 | western | 1737 lexington avenue, warren, oh
+             p=0.000 p1=0.000 rank=131  S3-796856187 | desert | 1076 tebala boulevard, il, rockford
+             p=0.000 p1=0.000 rank=132  S3-315589771 | western | 6233 aldea court, fl 1, lacey, washington
+
+S1 S1-287731285 | raj investments | spacelane office solutions pvt ltd no 39 2nd floor ngef lane indiranagar stage 1, bangalore, karnataka   [India, #true=0, in-cands=0, union=2419]
+   PRED      p=0.451 p1=0.077 rank=13  S2-652484198 | raj investments | no 2nd floor, , mumbai, maharashtra
+   PRED      p=0.398 p1=0.575 rank=2  S3-57154453 | raj investments | h.no 2nd floor, mumbai, mh
+             p=0.295 p1=0.030 rank=3  S3-975063468 | raj investments | 2nd floor, mumbai, mh
+             p=0.245 p1=0.033 rank=17  S2-739864528 | raj investments | door no 2nd floor, , mumbai, maharashtra
+             p=0.227 p1=0.024 rank=4  S3-498722729 | raj investments | mh, mumbai, 2nd floor, mumbai
+             p=0.108 p1=0.007 rank=18  S3-338558714 | raj investments | 2nd foor, mumbai, महाराषटर
+             p=0.051 p1=0.015 rank=109  S2-999516064 | raj investments | 32, bangalore, ಕರನಾಟಕ
+             p=0.050 p1=0.014 rank=110  S2-389855924 | raj investments | 32, bangalore, ಕರನಾಟಕ
+
+S1 S1-164167196 | scholarship initiative | 11896 santa fe avenue, hesperia, ca   [US, #true=0, in-cands=0, union=1755]
+   PRED      p=0.623 p1=0.876 rank=0  S2-895675600 | scholarship initiative | 11899 santa fe ave, hesperia, ca
+             p=0.034 p1=0.039 rank=65  S3-387119266 | scholarship initiative | 
+             p=0.033 p1=0.015 rank=96  S3-530366481 | scholarship initiative trading | 
+             p=0.027 p1=0.016 rank=95  S3-320123064 | scholarship initiative l.l.c. | 
+             p=0.019 p1=0.021 rank=33  S2-247200464 | scholarship initiative | 
+             p=0.019 p1=0.022 rank=38  S2-134391505 | scholarship initiative | 
+             p=0.000 p1=0.000 rank=129  S2-304872796 | scholarship initiative group | 6878 walnut hills dr, brentwood, tn
+             p=0.000 p1=0.000 rank=130  S2-352264902 | scholarship initiative iii | 2116 maybrook dr, raleigh, nc
+
+S1 S1-913875470 | clark | 12 king street, unit 1, peabody, ma   [US, #true=0, in-cands=0, union=735]
+   PRED      p=0.925 p1=0.920 rank=155  S3-754751432 | locklear | 12 king st, po box 9685, peabody, massachusetts
+             p=0.056 p1=0.334 rank=185  S3-622942 | clark | 
+             p=0.000 p1=0.000 rank=0  S3-290604440 | clark | 4 universal street, unit 11, framingham, ma
+             p=0.000 p1=0.000 rank=127  S3-940990984 | pediatric dentistry american clinic | stevens street, 1, peabody cdp, massachusetts
+             p=0.000 p1=0.000 rank=128  S3-567909716 | nexzeph+ doing business as streetman solarius | 12 northend avenue, unit 1, salem, ma
+             p=0.000 p1=0.000 rank=129  S3-454605338 | optimal-navigation | 109 king ct, unit 1, cheyenne, wyoming
+             p=0.000 p1=0.000 rank=130  S3-180508962 | novelia f. mansfield, dmd holdings | unit 1, massachusetts, northampton, 464c king st
+             p=0.000 p1=0.000 rank=131  S3-697940781 | mason | 12 kelly road, unit 0, cambridge, ma
+
+S1 S1-881644561 | bangalore south solutions | site no.9 first floor, pragathi nagar, bangalore south, bangalore, karnataka   [India, #true=0, in-cands=0, union=2447]
+   PRED      p=0.670 p1=0.828 rank=181  S3-471119965 | bangaloresouthsolutions | 769, bangalore south, bangalore rural, ka
+             p=0.177 p1=0.086 rank=1  S2-532548330 | bangalore south solutions | 513, , bangalore south, bangalore, karnataka
+             p=0.101 p1=0.056 rank=7  S2-947758414 | l.l.p. bangalore south solutions | no 513, , bangalore south, bangalore, karnataka
+             p=0.048 p1=0.047 rank=2  S3-110127822 | bangalore south solutions | bangalore, ka, 513, bangalore south
+             p=0.024 p1=0.011 rank=157  S3-381186285 | bangalore suth solutions | 809, bangalore south, bangalore, ka
+             p=0.019 p1=0.020 rank=180  S2-859772222 | bangalore south solutions | 
+             p=0.015 p1=0.018 rank=152  S3-929312746 | bangalore souh solutions | 15, bangalore south, bangalore, ka
+             p=0.007 p1=0.005 rank=12  S3-629027943 | bangalore south solutions | 13, bangalore, ಕರನಾಟಕ, bangalore south
+
+S1 S1-517023260 | modern services | balaji market industrial area, hisar, hissar, haryana   [India, #true=0, in-cands=0, union=1245]
+   PRED      p=0.798 p1=0.915 rank=2  S3-17419828 | modern services | 29 industrial area, bhilwara, rj
+             p=0.022 p1=0.028 rank=8  S3-989507098 | modern services | 
+             p=0.019 p1=0.038 rank=57  S3-530016429 | modern services | 
+             p=0.009 p1=0.011 rank=128  S3-614998984 | modern services | 
+             p=0.000 p1=0.000 rank=0  S2-483529448 | modern services | no 70 balaji market industrial area, hisar, hissar, haryana
+             p=0.000 p1=0.000 rank=129  S3-53718907 | modern services | tc b3/11/850 , neelambary, kesavadasapuram, thiruvananthapuram, trivandrum, kl
+             p=0.000 p1=0.000 rank=130  S3-495630716 | modern services | chuppepur sheopur, sh-2/35-h-10, उततर परदेश, varanasi
+             p=0.000 p1=0.000 rank=131  S3-643038334 | modern services | h.no. 140 - b, hariganga nagar, hoshangabad road, misrod, bhopal, mp
+
+S1 S1-649544539 | reliable krakacquisition | 110 holts road, russellville, ar   [US, #true=0, in-cands=0, union=1182]
+   PRED      p=0.970 p1=0.980 rank=4  S2-165442333 | reliable krakacquisition | 
+             p=0.041 p1=0.021 rank=1  S3-399099876 | reliable krakacquisition | 114 holts rd, russellville, arkansas
+             p=0.001 p1=0.001 rank=0  S2-317656672 | reliable krakacquisition | 114 holts road, russellville, ar
+             p=0.000 p1=0.000 rank=128  S2-848301936 | goodwinintegrated | 110 price street, evening shade, ar
+             p=0.000 p1=0.000 rank=129  S2-81761081 | hamptonmyers | 110 grandview heights dr, conway, ar
+             p=0.000 p1=0.000 rank=130  S2-220686156 | primary care clinic chrc | 290 phillips 110 rd, poplar grove, ar
+             p=0.000 p1=0.000 rank=131  S2-465761611 | hansard great jewelers | 110 coopers hawk drive, conway, ar
+             p=0.000 p1=0.000 rank=132  S2-876473351 | legacy environmental solutions | russellvville city, 110 5th saint, ar
+
+S1 S1-460620358 | metropolitan brc | 2013 roosevelt street, arlington county, va   [US, #true=0, in-cands=0, union=1592]
+   PRED      p=0.779 p1=0.858 rank=1  S3-201640348 | metropolitan brc | 
+             p=0.504 p1=0.583 rank=0  S3-772479809 | metropolitan brc | 4015 roosevelt st, arlington county, virginia
+             p=0.187 p1=0.136 rank=42  S2-881171579 | metropolitan | second street, arlington, ky
+             p=0.013 p1=0.007 rank=37  S2-194221587 | metropolitan brc, | 
+             p=0.003 p1=0.005 rank=160  S3-510329526 | metropolitan | 
+             p=0.003 p1=0.004 rank=152  S3-194929820 | metropolitan | 
+             p=0.003 p1=0.003 rank=28  S2-596773603 | nlbx | 2013 west club ln, henrico county, va
+             p=0.001 p1=0.001 rank=72  S2-878928301 | va1ley | 2013 spring ridge dr, arlington heights, il
+
+S1 S1-291199718 | oncology global clinic | 170 2nd street, rialto, ca   [US, #true=0, in-cands=0, union=1963]
+   PRED      p=0.825 p1=0.751 rank=0  S2-75990723 | oncology global clinic | 79 2st st, rialto, ca
+   PRED      p=0.709 p1=0.722 rank=41  S3-15005969 | oncology global clinic | 
+             p=0.580 p1=0.419 rank=40  S3-762763839 | oncology global clinic | 179-b 2st st, rilto, california
+             p=0.000 p1=0.000 rank=129  S3-174297091 | kissinger, acevedo | oregon, beaverton, 3280. 170nd ave, unit 2313
+             p=0.000 p1=0.000 rank=130  S3-792897201 | signature finance | 16044 170nd ct, renton city, washington
+             p=0.000 p1=0.000 rank=131  S3-152195695 | zetalum | 170 el monte avenue, ventura, ca
+             p=0.000 p1=0.000 rank=132  S3-495098806 | enterprise | 2 desert avenue, twentynine palms, ca
+             p=0.000 p1=0.000 rank=133  S3-136916398 | trinity cathedral | 076 170nd st, newr ichmond, wisconsin
+
+S1 S1-779289598 | hari enterprises | 2nd floor mani casadona unit no- 2ws5b, plot no-11f/04, action area iif rajarhat new town, north 24 parganas, west bengal   [India, #true=0, in-cands=0, union=2626]
+   PRED      p=0.915 p1=0.985 rank=0  S3-172256990 | hari services | 5nd floor mani casadona unit no- 2ws5b, plot no-11f/04, action area iif rajarhat new town, north 24 parganas, wb
+             p=0.198 p1=0.131 rank=1  S2-270408691 | hari financial | west bengal, 5n floor mani casadona unit no- 2ws5b, plot no-11f/04, action area iif rajarhat new town, north 24 parganas
+             p=0.014 p1=0.017 rank=191  S3-489146959 | hari enterprises | 
+             p=0.000 p1=0.000 rank=127  S3-556203249 | xak technologies group | no 5 mani casadona it building, new town, north 24 parganas, wb
+             p=0.000 p1=0.000 rank=128  S3-99372702 | new town healthcare | mani casadona east twoer office-3es5, wb, north 24 parganas, action area ii/f, new town
+             p=0.000 p1=0.000 rank=129  S3-390157313 | new town healthcare | mani casadona east tower office-3es5, action area ii/f, new town, north 24 parganas, wb
+             p=0.000 p1=0.000 rank=130  S3-324644937 | north 24 parganas iron | ecospace business park, block 4b, 6th floor, premises no. - iif/11, action area - ii, new town, kolkata, north 24 parganas, , wb
+             p=0.000 p1=0.000 rank=131  S3-344691521 | apex systems | plot no - ah/a-5, premises no. mar 16 - 1111, action area - 1a, new town, rajarhat, p.s. - new town, north 24 parganas, পশচিমবঙগ
+
+S1 S1-504362924 | shanon b. gilmore, esq. | 11239 madison avenue, kansas city, mo   [US, #true=0, in-cands=0, union=2652]
+   PRED      p=0.724 p1=0.882 rank=0  S2-840261408 | shanon b. gilmore, esq. | 1250 madison ave, mo, kansas city
+             p=0.001 p1=0.001 rank=1  S3-565570633 | shanon b. gilmore, esq. west | 11250 madison ave, kansas city, missouri
+             p=0.000 p1=0.000 rank=127  S3-1018333 | gilmore property solutions | 4375 pioneer trl, superior, wisconsin
+             p=0.000 p1=0.000 rank=128  S3-469403845 | shanon vargas platinum | 1900 samford trace ct, unit unit 3110, auburn, alabama
+             p=0.000 p1=0.000 rank=129  S3-533042433 | ramirez and gilmore, | 72 maggie ct, manchester, tennessee
+             p=0.000 p1=0.000 rank=130  S3-500737252 | shanon richardson empire | 36 cottage ave, southampton, massachusetts
+             p=0.000 p1=0.000 rank=131  S3-866922359 | gilmore made group | 915. turtle creek dr, owensboro, kentucky
+             p=0.000 p1=0.000 rank=132  S3-594380494 | shanon miller, md | 52 main st, garnerville township, new york
+
+S1 S1-319321181 | nari c. novak, esq., p.c. | ia, 330 spring street, martensdale   [US, #true=0, in-cands=0, union=2019]
+   PRED      p=0.543 p1=0.068 rank=0  S2-779645402 | nari c. novak, esq., p.c. | 351 spring street, martensdale, ia
+   PRED      p=0.504 p1=0.527 rank=1  S2-914564230 | nari c.-novak, esq., p.c. | 351 spring street, martensdale, ia
+             p=0.000 p1=0.000 rank=127  S2-163959897 | novak, helen-elizabeth,-d.c., m.d., p.c. | 43 keppel point rd, winterport, me
+             p=0.000 p1=0.000 rank=128  S2-395038226 | sanchez, nari, dmd, p.c. | 4616 1/2 san jacinto river drive, sprig, tx
+             p=0.000 p1=0.000 rank=129  S3-817446635 | reim and novak downtown | 513 boxford street, north andover, massachusetts
+             p=0.000 p1=0.000 rank=130  S3-39881079 | nari hsu, d.c., dds | 04010 packard street, parkersburg, west virginia
+             p=0.000 p1=0.000 rank=131  S3-941073391 | novak best medicine | 340 adams street, b, washington, district of columbia
+             p=0.000 p1=0.000 rank=132  S3-491990098 | novak best medicine | 338 adams street, washington, district of columbia
+
+S1 S1-759624534 | aditya nursing home | 190 ambedkar nagar, opp cuffe parade police station, cuffe parade, mumbai, mumbai city, maharashtra   [India, #true=0, in-cands=0, union=1606]
+   PRED      p=0.832 p1=0.905 rank=4  S2-938554247 | aditya nursing home | 
+   PRED      p=0.682 p1=0.463 rank=2  S3-668703311 | aditya nursing | 216, , mumbai city, mh
+             p=0.000 p1=0.000 rank=0  S3-504242493 | aditya nursing home industries | opp cuffe parade police station, cuffe parade, mh, 193 ambedkar nagar, mumbai city
+             p=0.000 p1=0.000 rank=128  S3-937068851 | umbravera | p no. 8/190 vidhyadhar nagar, jaipur, rajasthan
+             p=0.000 p1=0.000 rank=129  S3-201468814 | indore-constructinporivale | h.no 190 laxmi nagar, indore, mp, indore
+             p=0.000 p1=0.000 rank=130  S3-274101184 | baba energy | 3104 cts 1/190 to 1/205 sno 41, mumbai, mh
+             p=0.000 p1=0.000 rank=131  S3-495868941 | kritan lighting | no 15/190 indira nagar, lucknow, up
+             p=0.000 p1=0.000 rank=132  S3-406028186 | ws | 190 transport nagar, indore, madhya pradesh
+
+S1 S1-906484107 | mendez medical center | 170 washington street, unit ph2, haverhill, ma   [US, #true=0, in-cands=0, union=2329]
+   PRED      p=0.874 p1=0.902 rank=0  S3-955509514 | collins medical-cettser | haverhill, 170 washington street, massachusetts, unit ph2
+             p=0.473 p1=0.813 rank=161  S3-229497486 | mendez medical center | 
+             p=0.000 p1=0.000 rank=127  S3-298047449 | snyder, lopez and dillard averin group | 9. bartlett street, f2right, haverhill, massachusetts
+             p=0.000 p1=0.000 rank=128  S3-537259734 | wisdom interstate ubs | 29 grove saint, unit 2, haverhill, massachusetts
+             p=0.000 p1=0.000 rank=129  S3-868896807 | suellen mendoza clean service | 11 cross rd, unit 2, haverhill, massachusetts
+             p=0.000 p1=0.000 rank=130  S3-89555778 | kim-healthcare | 649 river st, unit 2, haverhill, massachusetts
+             p=0.000 p1=0.000 rank=131  S3-314022927 | campbell service of haverhill westgate lp | 423 river st, unit 2a, haverhill, massachusetts
+             p=0.000 p1=0.000 rank=132  S3-510800204 | family care partners | 106 bellevue ave, unit 2, haverhill, massachusetts
+
+S1 S1-107699058 | carol johansen trusted octave, | 4525 graham road, unit unit 73, harlingen, tx   [US, #true=0, in-cands=0, union=3591]
+   PRED      p=0.582 p1=0.688 rank=1  S2-855326363 | carol trusted johansen octave, | 4532 graham road, harlingen, tx
+             p=0.005 p1=0.005 rank=3  S3-183629485 | clyelle-summit | 4525- graham rd, unit unit 201, harlingen, texas
+             p=0.005 p1=0.004 rank=0  S3-255260736 | carol johansen trusted octave, | 04532 graham road, unit 73, harlingen, texas
+             p=0.000 p1=0.000 rank=128  S3-820812877 | carol tatum, center | 3816 fender road, melbourne ky, kentucky
+             p=0.000 p1=0.000 rank=129  S3-324891923 | carol jeske superior | clays mill school road, scottsburg, virginia
+             p=0.000 p1=0.000 rank=130  S3-312601747 | johansen, sydney precision point | 90 aviation road, massena, new york
+             p=0.000 p1=0.000 rank=131  S3-842391504 | trusted | 202 jurassic circle, mabank, tx
+             p=0.000 p1=0.000 rank=132  S3-508607590 | trusted | 16631 bahama way, galveston, tx
+
+S1 S1-897511362 | bakewell & white | 447 vermont street, brooklyn, ny   [US, #true=0, in-cands=0, union=879]
+   PRED      p=0.553 p1=0.695 rank=0  S2-462990772 | bakewell & white | 468 vermont st, brooklyn, ny
+             p=0.300 p1=0.311 rank=21  S3-76746072 | iridova | 447 53 st, brooklyn, new york
+             p=0.103 p1=0.078 rank=18  S3-695497520 | fluxciraflux | 447 53 saint, brooklyn, new york
+             p=0.000 p1=0.000 rank=128  S3-953757294 | white | indiana, clinton, 500 beechwood dr
+             p=0.000 p1=0.000 rank=129  S3-80478878 | white | 3363 sam houston parkway, houston, tx
+             p=0.000 p1=0.000 rank=130  S3-570767700 | white & | 6317 ravena drive, hamilton, ohio
+             p=0.000 p1=0.000 rank=131  S3-568461211 | white | 500 beechwood dr, clinton, indiana
+             p=0.000 p1=0.000 rank=132  S3-21517060 | white | 5632 49, lineville, alabama
+
+S1 S1-547298720 | dial holdings group | 98/3, tamil nadu, tiruvarur, bharathiyar street, thendral nagar, thiruvarur   [India, #true=0, in-cands=0, union=2276]
+   PRED      p=0.588 p1=0.698 rank=0  S2-614038653 | dial holdings group | prot 2-176 98/16, bharathiyar street, thendral nagar, thiruvarur, tamil nadu
+             p=0.322 p1=0.371 rank=17  S2-674242631 | mr dial holdings | 
+             p=0.005 p1=0.003 rank=1  S3-544293589 | dial holdings group exports | bharathiyar street, thendral nagar, tiruvarur, 98/16, tn
+             p=0.000 p1=0.000 rank=128  S3-882047007 | orbisyn sys | new no. 62/2, old no. s98, s block, 4th main road, anna nagar, chennai, egmore nungambakkam, chennai, tamil nadu
+             p=0.000 p1=0.000 rank=129  S3-618144652 | dial clinic | ramayan banglow near sawarkar nagar, nashik, mh
+             p=0.000 p1=0.000 rank=130  S3-992375314 | dr ott hospital | h.no 7/3 om sakthi complex old karur road, melachinthamani, tiruchirappalli, tiruvarur, தமிழநாடு
+             p=0.000 p1=0.000 rank=131  S3-717876951 | verazeph | 98, north agraharam thenkarai, periyakulam, theni, tamil nadu
+             p=0.000 p1=0.000 rank=132  S3-330152071 | mirairiio | chennai, velachery main road, medavakkam p o, tamil nadu, 10/98
+
+S1 S1-861692494 | h 8 p total | 201 campus drive, amherst, unit apartment 3, ny   [US, #true=0, in-cands=0, union=829]
+   PRED      p=0.615 p1=0.672 rank=0  S3-790776383 | h 8 p total | 222 campus dr, apartment 3, amherst, new york
+   PRED      p=0.602 p1=0.134 rank=1  S3-689379772 | h 8 p total | 222 campus drive, unit apartment 3, buffalo, new york
+             p=0.000 p1=0.000 rank=127  S3-141731459 | rizamira | 85 bronx river road, unit apartment 3k, yonkers, ny
+             p=0.000 p1=0.000 rank=128  S3-69526560 | villa, & kenney mata shanghai lakeside, pllc | 117 churchcroft ln, unit apartment 3, amherst, new york
+             p=0.000 p1=0.000 rank=129  S3-168812360 | brixbrixvio | 49 17th street, unit apartment a3, oyster bay, ny
+             p=0.000 p1=0.000 rank=130  S3-843624778 | deltatavo | 5 rumsey street, unit apartment 3, seneca falls, ny
+             p=0.000 p1=0.000 rank=131  S3-694549376 | jaxorbi d.b.a. pediatric dental mountain health | 108 village avenue, unit apartment 3b, rockville centre, ny
+             p=0.000 p1=0.000 rank=132  S3-32422998 | pyrazeta | 2140 grand central avenue, unit apartment 3, horseheads, ny
+
+S1 S1-383739087 | cornerstone legato | 600 st marys street, unit 235, raleigh, nc   [US, #true=0, in-cands=0, union=1960]
+   PRED      p=0.594 p1=0.686 rank=0  S3-282693115 | cornerstone legato | 00609 st marys street, 235, raleigh, north carolina
+             p=0.004 p1=0.006 rank=3  S3-920225317 | #montioxley | 600 st marys street, raleigh, north carolina
+             p=0.000 p1=0.000 rank=127  S2-654183708 | piedmont partners | 600 35th st, morehead city, nc
+             p=0.000 p1=0.000 rank=128  S2-733422304 | wildlife program | 600-c camellia st, belmont ctiy, nc
+             p=0.000 p1=0.000 rank=129  S2-968419716 | tatiania scott century | 235 77th st, oak island, nc
+             p=0.000 p1=0.000 rank=130  S2-950652283 | rojas anrhro invest | 235 over st, saint helena, nc
+             p=0.000 p1=0.000 rank=131  S2-543709920 | scott, tatiania century | nc, 235 77th st, oak island
+             p=0.000 p1=0.000 rank=132  S2-505359830 | piedmont partners l.l.c. - 9010900855 | 600 35th street, morehead city, nc
+
+S1 S1-779382388 | quick institute of technology | 1/7, road no. 1, house no. 7, punjabi bagh extension, new delhi, delhi   [India, #true=0, in-cands=0, union=2079]
+   PRED      p=0.951 p1=0.986 rank=0  S3-235434041 | institute quick of technology | 1/10, road no. 1, house no. 7, punjabi bagh extension, new delhi, dl
+             p=0.196 p1=0.097 rank=1  S3-931151648 | industries institute of technology quick | 1/10, road no. 1, house no. 7, punjabi bagh extension, new delhi, dl
+             p=0.016 p1=0.008 rank=2  S3-53549042 | industries | road no. 1, house no. 7 punjabi bagh extension, new delhi, delhi
+             p=0.000 p1=0.000 rank=128  S3-399234151 | wr medtech | door no 1/78 west punjabi bagh, west delhi, n delhi, dl
+             p=0.000 p1=0.000 rank=129  S3-730223193 | sri svan power | hn 849 plot no-7, road no-62 punjabi bagh, dl
+             p=0.000 p1=0.000 rank=130  S3-137940613 | north chits infratech | houae no 001/39, punjabi bagh, delhi, west delhi, dl
+             p=0.000 p1=0.000 rank=131  S3-109453972 | chandrora agro associates | 17/18, 1st floor east punjabi bagh, new delhi, दिलली
+             p=0.000 p1=0.000 rank=132  S3-313515741 | solutions intellize hotels | h.no 8/7 ground floor, east punjabi bagh delhi, delhi, दिलली
+
+S1 S1-350506397 | cherry trust | gomutha, p o iswarpur, p.s chandipur, nandigram-iii, east midnapore, west bengal   [India, #true=0, in-cands=0, union=1126]
+   PRED      p=0.948 p1=0.961 rank=0  S3-188434178 | cherry trust | door no 51 gomutha, nandigram-iii, east midnapore, wb
+             p=0.000 p1=0.000 rank=127  S3-190470110 | cherry poctus holdings | sr no., chimbali, chakan taluka khed, poona, pune, mh
+             p=0.000 p1=0.000 rank=128  S3-530030876 | shri cherry nt | d1, nyati chesterfield, s. no. 22/8, undri hadapsar, pune, महाराषटर
+             p=0.000 p1=0.000 rank=129  S3-808280966 | cherry medical centre | 7a/d/202, 2nd floor, sangharsh nagar, bombay, , mh
+             p=0.000 p1=0.000 rank=130  S3-449384583 | miraariax | vill p.o-amdabad, ps-nandigram purba midnapore, nandigram, midnapore, west bengal
+             p=0.000 p1=0.000 rank=131  S3-637936609 | shri cherry society service | 98e, patna, new patliputra colony, br
+             p=0.000 p1=0.000 rank=132  S3-956778083 | cherry medical centre industries | mh, mumbai, 2nd floor, sangharsh nagar, 007a/d/209, mumbai
+             p=0.000 p1=0.000 rank=133  S3-531408271 | shri cherry welfare society | door no 10/1 ground floor, ka, bangalore, shankarnag road 15th cross, bangalore urban
+
+########## wrong_pick_findable: 1 rows (showing 1) ##########
+
+S1 S1-660148425 | hpq services | c/o vasanth kumar, sathish, nilaya, ramanna shetty cp, udupi, karnataka   [India, #true=1, in-cands=1, union=988]
+   PRED      p=0.619 p1=0.681 rank=2  S3-845111411 | hpq services | 
+   PRED      p=0.551 p1=0.463 rank=14  S2-19507678 | hpqv center | c/o vasanth kumar, sathish, nilaya, ramanna shetty cp, udupi, ಕರನಾಟಕ
+        TRUE p=0.164 p1=0.221 rank=1  S3-171333126 | nyladeltadrex | udupi, c/o vasanth kumar, karnataka, sathish, nilaya, ramanna shetty cp, udupi
+             p=0.004 p1=0.007 rank=4  S3-563787560 | gurukripaanalyticaludupi | g-649 c/o vasanth kumar, sathish, nilaya, ramanna shetty cp, udupi, , ಕರನಾಟಕ
+             p=0.000 p1=0.000 rank=0  S2-945877801 | dr talreja services | 19 c/o vasanth kumar, sathish, nilaya, ramanna shetty cp, udupi, karnataka
+             p=0.000 p1=0.000 rank=129  S3-269883959 | services | sy no. 19/a-1 plot 18-19, gr fl mohan nagar society, surat, gujarat
+             p=0.000 p1=0.000 rank=130  S3-186843589 | services | house 83, 2nd floor, sainik vihar, pitampura, delhi, north west, delhi
+             p=0.000 p1=0.000 rank=131  S3-137680524 | services | plot no.368/b, road no. 10a, gopala nagar society, ace sports academy, hydernagar village hyderabad, tirumalagiri, hyderabad, telangana
+
+########## abstained_findable: 50 rows (showing 25) ##########
+
+S1 S1-240807427 | st. zion | 7242 hermosa avenue, rancho cucamonga, ca   [US, #true=1, in-cands=1, union=1166]
+        TRUE p=0.008 p1=0.014 rank=176  S3-855252022 | st. zion trading | 
+             p=0.008 p1=0.036 rank=83  S2-831751656 | st. zion | 
+             p=0.006 p1=0.025 rank=141  S3-823849941 | st. zion | 
+             p=0.006 p1=0.028 rank=118  S3-198430527 | st. zion & | 
+             p=0.006 p1=0.017 rank=183  S2-154578803 | st. zion | 
+             p=0.005 p1=0.009 rank=168  S3-416912780 | st. zion ventures | 
+             p=0.002 p1=0.002 rank=153  S2-480095609 | new-life cathedral | highland, 7242 victoria ave, ca
+             p=0.000 p1=0.000 rank=0  S2-763578030 | st. zion group | 7246 hermosa ave, rancho cucamonga, ca
+
+S1 S1-265287353 | valuable services | siddha-5th avenue, office space nos. 2e & 2f, 179, anandapur, kolkata, kolkata, howrah, west bengal   [India, #true=1, in-cands=1, union=3054]
+        TRUE p=0.048 p1=0.176 rank=7  S2-53015326 | sri solyuma | siddha-5th avenbe, kolkata, howrah, west bengal
+             p=0.000 p1=0.000 rank=0  S2-824137028 | valuable services group | west bengal, siddha-9th avenue, office space nos. 2e & 2f, 179, anandapur, kolkata, kolkata
+             p=0.000 p1=0.000 rank=127  S3-492932490 | green healthcare | 4/5b, space town, vip road, raghunathpur, kolkata, kolkata, howrah, wb
+             p=0.000 p1=0.000 rank=128  S3-767049643 | global memorial holdings | block- 9, flat- 5 i, space town, v.i.p. road, kolkata, calcutta, howrah, পশচিমবঙগ
+             p=0.000 p1=0.000 rank=129  S3-981658717 | mysore services | plot nos.4 & 5, palghar district, thane, mh
+             p=0.000 p1=0.000 rank=130  S3-685751748 | mars international | b-49-193, siddha co -op hsg soc, siddharth nagar no 2, goregaon west, mumbai, mumbai city, mh
+             p=0.000 p1=0.000 rank=131  S3-588279114 | mars | b-49-193, siddha co -op hsg soc, siddharth nagar no 2, goregaon west, mumbai, mumbai city, maharashtra
+             p=0.000 p1=0.000 rank=132  S3-382400251 | shri imprivate.com | b-49-193, siddha co -op hsg soc, siddharth nagar no 2, goregaon west, mumbai, mumbai city, mh
+
+S1 S1-578437079 | shivpujan homes | d.no.10-50-18/1 , 302, siripuram towers, siripuram, visakhapatnam, vishakhapatnam, andhra pradesh   [India, #true=1, in-cands=1, union=3375]
+        TRUE p=0.029 p1=0.132 rank=191  S2-844483184 | fayedrex | d.no.10-50-18/1/6 , vizag, vishakhapatnam, andhra pradesh
+             p=0.003 p1=0.006 rank=0  S2-561012951 | dr shivpujan homes overseas | 10-50-18/3 , 302, siripuram towres, siripuram, visakhapatnam, ఆంధరపరదేశ
+             p=0.000 p1=0.000 rank=127  S2-486737959 | gs vintrade | 10-1-43 , flat no. 202, second floor siripuram fort, siripuram, visakhapatnam, andhra pradesh
+             p=0.000 p1=0.000 rank=128  S2-96609701 | maa constructions | d.no. 50-1-46/1, flat no 101, alluri towers, asr nagar, visakhapatnam, vishakhapatnam, andhra pradesh
+             p=0.000 p1=0.000 rank=129  S3-707680329 | ha | 7-8-1/1, varun towers, kasturba marg, siripuram, visakhapatnam , visakhapatnam, vishakhapatnam, andhra pradesh
+             p=0.000 p1=0.000 rank=130  S3-717045987 | life | 1-108-18, 2nd floor, mig 76, sector-8, visakhapatnam , visakhapatnam, vishakhapatnam, andhra pradesh
+             p=0.000 p1=0.000 rank=131  S3-933974914 | mirazeta | 50-50-15/2, behind gurudwara seetamma dhara, visakhapatnam, vishakhapatnam, andhra pradesh
+             p=0.000 p1=0.000 rank=132  S3-716142337 | jt | andhra pradesh, vishakapatnam, dwarakanagar, d.no 47-11-18/17 4th floor g.k.towers
+
+S1 S1-632995802 | premier consultants | c-1, satellite apartment, nr. kameshwar school, jodhpur cross road, satellite, ahmedabad, gujarat   [India, #true=2, in-cands=2, union=1275]
+        TRUE p=0.092 p1=0.092 rank=6  S3-704408905 | premier consultants | c-3, ahmedabad, ગુજરાત
+        TRUE p=0.091 p1=0.087 rank=8  S3-441530085 | premier consultants | c-3, ahmedabad, ગુજરાત
+             p=0.016 p1=0.081 rank=188  S2-185619158 | premier consultants | 
+             p=0.006 p1=0.005 rank=11  S2-725522677 | premier consultants | ahmedabad, 1029, gujarat
+             p=0.000 p1=0.000 rank=128  S3-235305932 | zrn kaka | 447 g -25, samaan complex, opp. kameshwar school, jodhpur cross road, satellite, ahmadabad city, ahmedabad, gj
+             p=0.000 p1=0.000 rank=129  S3-780108695 | vu marketing overseas | g -30, samaan complex, opp. kameshwar school, jodhpur cross road, satellite, ahmadabad city, ahmedabad, gj
+             p=0.000 p1=0.000 rank=130  S3-686425301 | bihar center | a-32, prerna viraj tower-1 jodhpur gam, ahmedabad, satellite, gj
+             p=0.000 p1=0.000 rank=131  S3-701134770 | dhiraj 5urveyors | titanium city center plot no-293/1/p, t.p-no-03, nr.sachin tower anandnagar road, satellite, ahmedabad, hn 478 c-909, ahmadabad city, ગુજરાત, ahmedabad
+
+S1 S1-912451630 | patriot project | 1006 virgil court, sacramento, ca   [US, #true=1, in-cands=1, union=1698]
+             p=0.021 p1=0.051 rank=5  S3-566380385 | patriot project | 
+             p=0.014 p1=0.052 rank=94  S2-766139933 | patriot project | 
+        TRUE p=0.011 p1=0.029 rank=147  S3-372677621 | patriot project enterprises | 
+             p=0.001 p1=0.001 rank=0  S2-521737763 | patriot project | 1011 virgil court, sacramento, ca
+             p=0.000 p1=0.000 rank=128  S2-967139209 | patriot program | acoma street, sacramento, ca
+             p=0.000 p1=0.000 rank=129  S2-174547022 | patriot program | 2175 acoma street, sacramento, ca
+             p=0.000 p1=0.000 rank=130  S2-233884096 | patriot program | 2175 acoma st, sacramento, ca
+             p=0.000 p1=0.000 rank=131  S3-204412357 | patriot program | 23 willow court, cromwell, connecticut
+
+S1 S1-770451145 | hotel marketing | khasra no. 27, near excel automobiles, village bagdola, sector-8, dwarka, shop no.7, new delhi, south west delhi, delhi   [India, #true=1, in-cands=1, union=2659]
+             p=0.004 p1=0.003 rank=195  S2-634310630 | hotel marketing | door no 515 8-7-89/127, k.v. rangareddy, rangareddy, telangana
+             p=0.002 p1=0.002 rank=135  S3-825912766 | hotel marketing | floor 8, mumbai, महाराषटर
+             p=0.001 p1=0.001 rank=52  S3-149037999 | hotel marketing | floor 8, mumbai, mh
+             p=0.000 p1=0.000 rank=0  S3-188034565 | hotel marketing | property no. f-58, south delhi, dl
+             p=0.000 p1=0.000 rank=127  S3-566479577 | gold traders-private | a-1/7, basement, khasra no. 30, village saidulajab, m b road, new delhi, south delhi, दिलली
+             p=0.000 p1=0.000 rank=128  S3-556615062 | smt krg-hospital | 442- a-301, gaytri apartments, plot no- 27 sector- 10 dwarka, new delhi, west delhi, दिलली
+             p=0.000 p1=0.000 rank=129  S3-878939057 | gen traders associates | khasra no. 7-6/16 kanganheri road, new delhi, south west delhi, dl
+             p=0.000 p1=0.000 rank=130  S2-668992984 | laxmi agro | h.no 113, ground floor, bagdola, sector-8, dwarka, delhi, south west delhi, delhi
+
+S1 S1-650745079 | cissy lea mercator | il, 2777 6th street, springfield   [US, #true=3, in-cands=2, union=3455]
+        TRUE p=0.342 p1=0.603 rank=0  S2-320685913 | cissy lea mecator | 777 6th street, springfield, il
+        TRUE p=0.146 p1=0.274 rank=54  S2-310310095 | cmlea | 777 6th st, springfield, il
+             p=0.000 p1=0.000 rank=127  S3-634882226 | siia royce | 955 6 maple aveune, springfield, illinois
+             p=0.000 p1=0.000 rank=128  S3-263864934 | womens health group | 6 holliay rd, springfield, illinois
+             p=0.000 p1=0.000 rank=129  S3-205402753 | mountain pediatrics | springfield, massachusetts, 6 eastwood drive
+             p=0.000 p1=0.000 rank=130  S3-621480688 | cardiologymedicine | 1221 6 governor st, springfield, illinois
+             p=0.000 p1=0.000 rank=131  S3-74190680 | vantagekelo | 6n 360 neva terrace, itasca, il
+             p=0.000 p1=0.000 rank=132  S3-484124994 | pediatric denta1 medicine | 6 bridge st, springfield, vermont
+   MISSING-FROM-CANDIDATES  S2-805030642 | cissy-lea | sixth street, springfield, il
+
+S1 S1-898342782 | golden global | 148, 14th floor, jolly maker chamber ii, 225, mumbai, maharashtra   [India, #true=2, in-cands=2, union=2978]
+        TRUE p=0.110 p1=0.275 rank=32  S3-598144834 | golden global | 14, mumbai, महाराषटर
+        TRUE p=0.041 p1=0.140 rank=196  S3-16064504 | golden global | 
+             p=0.022 p1=0.026 rank=3  S2-710204560 | golden global | 3-111, mumbai, maharashtra
+             p=0.015 p1=0.028 rank=0  S3-667088019 | dr golden partners | 149, 14th floor, jolly maker chamber ii, 225, mumbai, mh
+             p=0.004 p1=0.007 rank=187  S3-6307399 | golden global | 
+             p=0.002 p1=0.002 rank=9  S3-61656825 | golden global | unit no.5012 & 5034, mumbai ii, mh
+             p=0.000 p1=0.000 rank=144  S3-137850078 | hitech golden global | 6-13/43, saki naka, mumbai, mh
+             p=0.000 p1=0.000 rank=128  S3-195511100 | icon infrastructure | office no 701/7 14th floor embassy chamber, cts no e/859/b-2 opp simran plaza, 3rd road, mumbai, khar , महाराषटर
+
+S1 S1-63505171 | avd properties | no 609, 10th b cross, west of chord road, 2nd stage near pathanjali school, mahala, kshmipuram, bangalore, karnataka   [India, #true=1, in-cands=1, union=1108]
+        TRUE p=0.067 p1=0.228 rank=1  S2-517698269 | avd center | 09 , 10th b cross, west of chord road, 2nd stage near pathanjali school, mahala, kshmipuram, bangalore, karnataka
+             p=0.000 p1=0.000 rank=0  S2-314512422 | avd marketing | 614 , 10th b cross, west of chord road, 2nd stage near pathanjali school, mahala, kshmipuram, bangalore, karnataka
+             p=0.000 p1=0.000 rank=127  S2-648586915 | smt fresh center | 34/2 , 2nd floor, souparnika arcade, 13th c cross near ambedkar stadium, 4th stage, west of, chord road, bangalore, karnataka
+             p=0.000 p1=0.000 rank=128  S2-923146110 | fresh builders | 34/2 , 2nd floor, souparnika arcade, 13th c cross near ambedkar stadium, 4th stage, west of, chord road, bangalore, karnataka
+             p=0.000 p1=0.000 rank=129  S3-705703572 | halonovix | no.1, balaji nagar, tigalarapalya main road, 10th main, peenya 2nd stage, bangalore, bangalore, karnataka
+             p=0.000 p1=0.000 rank=130  S3-712215922 | evocira | no 87, ground floor, 4th cross, 4th main 10th block, nagarabhavi 2nd stage, bangalore, karnataka
+             p=0.000 p1=0.000 rank=131  S3-266916719 | evozeph | ground floor, karnataka, bangalore, no. 726, 8th cross, 10th main near indiranagar club, hal 2nd stage, ba, ngalore, bangalore
+             p=0.000 p1=0.000 rank=132  S3-462837193 | calonyla | no.4, 10th block, 2nd stage, nagarabhavi, bangalore, karnataka
+
+S1 S1-252580172 | laxmi solutions | 1st fl, gram p shop center, opp ref hospital ohikhli, chikhli, navsari, gujarat   [India, #true=2, in-cands=1, union=2112]
+        TRUE p=0.303 p1=0.713 rank=3  S2-79886106 | ciramiraevo | 1st fl, chikhli, navsari, gujarat
+             p=0.032 p1=0.027 rank=35  S3-636913984 | laxmi solutions | 
+             p=0.000 p1=0.000 rank=0  S3-652855128 | laxmi soussions constructions | 3st fl, gram p shop center, opp ref hospital ohikhli, chikhli, navsari, ગુજરાત
+             p=0.000 p1=0.000 rank=128  S3-927571722 | prime enterprises technologies | no. 909 s.r. no.1-3093/94/101 j c park opp. honest co., chikhli rd. goharbaug bil, navsari, gj
+             p=0.000 p1=0.000 rank=129  S3-525786631 | prime it pivtae | shri mataji krupa 1st- floorbhojeshwar plot m g road porbandar, gujarat, navsari, gj
+             p=0.000 p1=0.000 rank=130  S3-753377822 | m0nsoon commodities | 102, 1st floor, sweet home appartment, opp-convent school, gandevi road, navsari, ગુજરાત
+             p=0.000 p1=0.000 rank=131  S3-85725244 | smt shree utpadan | h.no 482 1 ward no 2 main road shahu nagar, chikhli, mh
+             p=0.000 p1=0.000 rank=132  S3-205257308 | laxmi solutions restaurant | h.no 217, vijayawada, ap, krishna, venkatarama residency cinemahall center, kankipadu
+   MISSING-FROM-CANDIDATES  S2-826729464 | lakshmi solutions | fl, navsari, gujarat
+
+S1 S1-277520563 | severn veterans society lp | 7825 grandison way, fl 0, severn, md   [US, #true=2, in-cands=2, union=2484]
+        TRUE p=0.396 p1=0.429 rank=0  S3-621339386 | severn veterans society lp | 7811 grandison way, fl 0, severn, maryland
+        TRUE p=0.339 p1=0.059 rank=2  S2-207984405 | severn veterans society | 7811 grandison way, md, severn
+             p=0.004 p1=0.003 rank=1  S3-149591227 | severn veterans society holdings | fl 0, maryland, severn, 7828-c grandison way
+             p=0.000 p1=0.000 rank=128  S3-683599640 | veterans society | 701 phillips pl, ste 2, huntsvile, arkansas
+             p=0.000 p1=0.000 rank=129  S3-413366155 | veterans- society | 504 seneca streat, tuccson, arizona
+             p=0.000 p1=0.000 rank=130  S3-87684848 | veterans society | center st, loami, illinois
+             p=0.000 p1=0.000 rank=131  S3-64610405 | veterans society | 118- holzinger bend, , bastrop, texas
+             p=0.000 p1=0.000 rank=132  S3-494229130 | veterans society | 2907 broad street, richmond city, virginia
+
+S1 S1-326675852 | aarvin solutions | 1501, whitefield chs hiranandani meadows, gladys alwares marg thane west, thane, maharashtra   [India, #true=1, in-cands=1, union=1899]
+        TRUE p=0.057 p1=0.160 rank=11  S3-801311526 | aarvin solutions pvtte | 
+             p=0.000 p1=0.000 rank=0  S3-742019147 | aarvique solutions service | 1522, whitefield chs hiranandani meadows, gladys alwares marg thane west, thane, mh
+             p=0.000 p1=0.000 rank=127  S3-846304486 | aarvin cloud | house no. 3 mehnot nagar neemuch, neemuch, mp
+             p=0.000 p1=0.000 rank=128  S3-963268027 | aarvin natural | 1 amber gas godown, nangal road kunda, jaipur, राजसथान
+             p=0.000 p1=0.000 rank=129  S3-429710723 | aarvin cloud | house no. 3 mehnot nagar neemuch, neemuch, mp, neemuch
+             p=0.000 p1=0.000 rank=130  S3-903239915 | aarvin lights | 5-94 rd no 2 adarsh, tirumalagiri, tg, hyderabad
+             p=0.000 p1=0.000 rank=131  S3-562074249 | aarvin cloud | house no. 3 mehnot nagar neemuch, neemuch, mp
+             p=0.000 p1=0.000 rank=132  S3-104454079 | aarvin ecomefce | plot no.172, sector-16 hsiidc, jhajjar, bahadurgarh, hr
+
+S1 S1-521559502 | engineering balrampur resorts | c/o mrinmay sarkar, rajib nagar daragaon, kalchini, jalpaiguri, west bengal   [India, #true=1, in-cands=1, union=1835]
+        TRUE p=0.237 p1=0.404 rank=0  S3-260361232 | engineering balrampur resorts | plot 73 c/o mrinmay sarkar, rajib nagar daragaon, kalchini, jalpaiguri, wb
+             p=0.004 p1=0.004 rank=1  S3-889782998 | engineering balrampur resorts infratech | 22 c/o mrinmay sarkar, kalchini, wb
+             p=0.000 p1=0.000 rank=127  S3-836736790 | engineering | no 11-13-642/f3, hyderabad, tg
+             p=0.000 p1=0.000 rank=128  S3-29590432 | engineering | o-24b, lgf, jangpura extention, delhi
+             p=0.000 p1=0.000 rank=129  S3-157589612 | engineering | ernakulam, kerala, kalaparambath, alangad p.o, aluva, ernakulam, building no.10/17
+             p=0.000 p1=0.000 rank=130  S3-327457972 | engineering | korattur, d.no.1201 62th street, tamil nadu, thiruvallur, chennai
+             p=0.000 p1=0.000 rank=131  S3-548198372 | engineering | vivek vihar phase-ii, new delhi, delhi, a-6, north east
+             p=0.000 p1=0.000 rank=132  S3-655715068 | engineering | hyderabad, h.no.11-13-642/f3, tg, hyderabad
+
+S1 S1-724288906 | star systems | no. 5, 1st floor, a street, frazer town, bangalore north, bangalore, karnataka   [India, #true=1, in-cands=1, union=1108]
+             p=0.032 p1=0.079 rank=1  S3-844671269 | star systems | 10rd floor, bangalore north, bangalore, ಕರನಾಟಕ
+             p=0.012 p1=0.039 rank=61  S3-11902142 | star systems | 
+             p=0.007 p1=0.005 rank=48  S3-595148054 | star systems | bangalore, bengaluru hq region, , 10, ka
+             p=0.007 p1=0.010 rank=180  S3-300501651 | star systems | 
+        TRUE p=0.004 p1=0.005 rank=195  S3-645391676 | star systems | 
+             p=0.004 p1=0.003 rank=59  S3-478732500 | star systems | a-908, gwalior, mp
+             p=0.004 p1=0.005 rank=0  S2-889337140 | mr star systems provision | karnataka, no. 6, 1st floor, a street, frazer town, bangalore north
+             p=0.003 p1=0.003 rank=192  S3-567469840 | star systems | 
+
+S1 S1-221773276 | sai projects | kasna industrial area, gautam buddha nagar, a-2/72 site 5, uttar pradesh, dadri   [India, #true=1, in-cands=1, union=2364]
+        TRUE p=0.323 p1=0.628 rank=0  S3-468052284 | pyraevoumbra | a-2/72 site 5, kasna industrial area, dadri, gautam buddha nagar, uttar pradesh
+             p=0.003 p1=0.007 rank=1  S3-949093221 | sai projects industries | door no 680 a-2/72 site 18, dadri, gautam buddha nagar, up
+             p=0.002 p1=0.002 rank=38  S3-218177567 | sai projects | first floor, gautambudh nagar, gautam buddha nagar, उततर परदेश
+             p=0.000 p1=0.000 rank=128  S2-603324206 | jay industries | a-002/157. site 5 kasna ind area greater noida, noida, gautam buddha nagar, uttar pradesh
+             p=0.000 p1=0.000 rank=129  S2-539156737 | meenanth system center | h-0-1, site 5, kasna industrial area, greater noida, gautam buddh nagar, noida, uttar pradesh
+             p=0.000 p1=0.000 rank=130  S3-161032367 | target herbal | k-416, site-5 kasna indl. area, gautam budh nagar, noida, gautam buddha nagar, up
+             p=0.000 p1=0.000 rank=131  S3-425076625 | mr alfa creative | b0-06/6, site 5 kasna ind area, gautam buddha nagar, greater noida, up
+             p=0.000 p1=0.000 rank=132  S3-266220939 | global service | k-214, site-5, kasna industrial area greater noida, gbnagar, gautam budhha nagar, उततर परदेश
+
+S1 S1-392396968 | commission on consumer affairs | ny, 143 ferry road, shelter island   [US, #true=2, in-cands=1, union=2463]
+             p=0.008 p1=0.015 rank=0  S2-447819637 | commission on consumer afras metro | 145 ferry road, shelter island heights, ny
+             p=0.007 p1=0.012 rank=11  S3-702286322 | commission on consumer affairs | 
+             p=0.006 p1=0.012 rank=65  S2-823200073 | commission on consumer affairs | 
+        TRUE p=0.006 p1=0.021 rank=169  S3-966168932 | commission on consumer affairs trading | 
+             p=0.000 p1=0.000 rank=128  S2-665407579 | commission on-consumer affairs | 3749 pioneer road, hoedale, id
+             p=0.000 p1=0.000 rank=129  S3-275029841 | lyratavo | 117-24 143 street, jamaica, ny
+             p=0.000 p1=0.000 rank=130  S3-211549034 | ectovera | 143-27 110 avenue, jamaica, ny
+             p=0.000 p1=0.000 rank=131  S3-861131530 | prime | 11-12 143 place, whitestone, ny
+   MISSING-FROM-CANDIDATES  S2-688700345 | #commissionon | ferry rd, shelter island heights cdp, ny
+
+S1 S1-750506385 | krishna cement | maharashtra, vaibhavwadi, h.no. 1257, navaladeviwadi, a/p nadhavade, sindhudurg   [India, #true=1, in-cands=1, union=1371]
+        TRUE p=0.234 p1=0.504 rank=5  S2-879714378 | krishnacementprivatecom | 1273, navaladeviwadi, a/p nadhavade, vaibhavwadi, महाराषटर
+             p=0.000 p1=0.000 rank=0  S3-554997204 | krishna cement holdings | h.no. 1258, navaladeviwadi, a/p nadhavade, vaibhavwadi, sindhudurg, mh
+             p=0.000 p1=0.000 rank=127  S2-793849830 | krishna + | sno.104, cts.6070, om, heritage, flat no 10, pune city, maharashtra
+             p=0.000 p1=0.000 rank=128  S3-993676818 | krishna center | d.no.11/1, vivekanandar street, gandhi nagar, edayarpalayam, coimbatore north, edyarpalayam junction, tn
+             p=0.000 p1=0.000 rank=129  S3-856277224 | krishna center | door no. t.c viii/212/2, , 1st floor, ezhuthachan building, villadom, ramavarm, apuram p.o, thrissur, kl
+             p=0.000 p1=0.000 rank=130  S3-8430596 | krishna center | office no 404, 4th floor, a-wing, express zone, off western express highway, malad east, mumbai, mh
+             p=0.000 p1=0.000 rank=131  S3-847701440 | krishna center | unit no-4, club babylon, survey no. 223/5, s p ring road, nr. bhadaj circle, at bha, daj, ahmedabad, gj
+             p=0.000 p1=0.000 rank=132  S3-259278121 | krishna center | ss-25, 26, 27, second floor, aditya mega mall plot no. 9d, central business district, shahdra, delhi, new delhi, dl
+
+S1 S1-825498403 | piedmont blue hospital | 24350 us highway 101, hoodsport, wa   [US, #true=1, in-cands=1, union=3099]
+             p=0.084 p1=0.164 rank=0  S2-365688322 | piedmont blue hospital | wa, 24359 us highway 101, hoodsport
+        TRUE p=0.003 p1=0.003 rank=1  S2-487783255 | piedmont blue hospital association | 24336-24338 us highway 101, hoodsport, wa
+             p=0.003 p1=0.003 rank=4  S2-343238455 | kocher's-psremisimn distribution | 25631 us highway 101, hoodsport, wa
+             p=0.000 p1=0.000 rank=128  S3-774266838 | blue hospital animal | cherry street, pris, texas, fl 7
+             p=0.000 p1=0.000 rank=129  S3-955978697 | piedmont blue intercontinental | 8 hemlock rd, semyour, connecticut
+             p=0.000 p1=0.000 rank=130  S3-938869290 | blue hospital animal | 73 marley road, elkton, maryland
+             p=0.000 p1=0.000 rank=131  S3-72607505 | piedmont blue coinshares | 3809 carlyle avenue, cleveland, ohio
+             p=0.000 p1=0.000 rank=132  S3-772005489 | blue hospital animal | 1731 birch street, casa grande, arizona
+
+S1 S1-544986084 | delhi glass | 3293/6, f/f peepal mahadev hauz qazi, delhi, central delhi, delhi   [India, #true=2, in-cands=1, union=1908]
+        TRUE p=0.323 p1=0.855 rank=109  S2-884307512 | delhi glass | 
+             p=0.027 p1=0.041 rank=79  S3-803497171 | aviumbra | delhi, hauz qazi, dl
+             p=0.000 p1=0.000 rank=0  S2-601150424 | delhi glass holdings | 3293/7, f/f peepal mahadev hauz qazi, delhi, delhi
+             p=0.000 p1=0.000 rank=127  S3-488785415 | shri om com | 4965, sirkiwalam hauz qazi, delhi, dl
+             p=0.000 p1=0.000 rank=128  S3-217391554 | om -com | 4965, sirkiwalam hauz qazi, delhi, dl
+             p=0.000 p1=0.000 rank=129  S3-769108331 | vision services | 2771 peepal mahadevhauz quazi, delhi, central delhi, दिलली
+             p=0.000 p1=0.000 rank=130  S3-605192503 | vision business | 2771 peepal mahadevhauz quazi, delhi, central delhi, दिलली
+             p=0.000 p1=0.000 rank=131  S3-825819493 | academy imperial clinic holdings | hn 373 shop no-ug-6, daryacha 39 hauz khas village, new delhi, dl
+   MISSING-FROM-CANDIDATES  S3-855450116 | delhi services & | 
+
+S1 S1-94950766 | vargas onfolio | 13537 quate lane, prince william county, va   [US, #true=1, in-cands=1, union=1500]
+             p=0.033 p1=0.082 rank=11  S3-240175080 | yumawex | 13537. quate lane, woodbridge, virginia
+             p=0.016 p1=0.030 rank=22  S2-971940285 | orbiavi | 13537b quate ln, woodbridge, va
+             p=0.004 p1=0.008 rank=5  S2-513302797 | 12 hnur | prince william county, 13537b quate ln, va
+             p=0.003 p1=0.007 rank=16  S2-397853118 | onyxcalotavo | 13537b quate lane, woodbridge, va
+        TRUE p=0.003 p1=0.008 rank=67  S3-544971653 | vargas | 
+             p=0.000 p1=0.000 rank=0  S3-762801787 | kelolum | va, 13537 quate lane, prince william county
+             p=0.000 p1=0.000 rank=129  S3-928152138 | west onfolio | chapel hill, north carolina, 122 stirrup ct
+             p=0.000 p1=0.000 rank=130  S3-483461711 | vargas trust | 176 waverly street, buffalo, new york
+
+S1 S1-188406284 | american metropolitan rocky | elk grove village, 742 cutter lane, il   [US, #true=1, in-cands=1, union=3103]
+        TRUE p=0.418 p1=0.681 rank=1  S3-375309204 | american meegtropolctan rocky | elk grove village, 968 cutter ln, illinois
+             p=0.002 p1=0.002 rank=4  S3-199259141 | cozy boy holdings | elk grove village, illinois, 742 texas street
+             p=0.002 p1=0.002 rank=0  S3-471606819 | american metropolitan rocky | elk grove village, illinois, 753 cutter ln
+             p=0.000 p1=0.000 rank=128  S3-228021713 | rocky | 133 dakota lane, russellville, ky
+             p=0.000 p1=0.000 rank=129  S3-331083620 | rocky | 119 chicago avenue, westmont, il
+             p=0.000 p1=0.000 rank=130  S3-88473817 | american | 609 bourland street, cornell, il
+             p=0.000 p1=0.000 rank=131  S3-976204755 | rocky | 719 jefferson street, hillsboro, il
+             p=0.000 p1=0.000 rank=132  S3-286623367 | metropolitan | 3090 simpson lane, prescott, az
+
+S1 S1-837236686 | rising comp | 239, tej kumar plaza 75, hazrat ganj, lucknow, uttar pradesh   [India, #true=1, in-cands=1, union=2560]
+        TRUE p=0.350 p1=0.580 rank=3  S3-96089356 | rising creapo | h.no 66 239, hazrat ganj, lucknow, up
+             p=0.001 p1=0.001 rank=0  S2-263004769 | rising herbal | 246, tej kumar plaza 75, lucknow, hazrat ganj, uttar pradesh
+             p=0.000 p1=0.000 rank=127  S3-228296859 | ontime comp | s no. 64/22, vikas nagar, gajuwaka, pedagantyada, vishakhapatnam, visakhapatnam, ap
+             p=0.000 p1=0.000 rank=128  S3-70812056 | comp high | no 16-a ground floor, mumbai, mumbai city, महाराषटर
+             p=0.000 p1=0.000 rank=129  S3-358206848 | ns comp | tc-35/225, shajeelamanzil, ssa 60, vallakadavu p o, thiruvananthapuram, thiruvananthapuram, trivandrum, keralam
+             p=0.000 p1=0.000 rank=130  S3-165775673 | uq comp | plot no a-67, kh no 62/8, gf, street no 5, block a, delhi, north west delhi, dl
+             p=0.000 p1=0.000 rank=131  S3-39902476 | rural comp | hn 163 415, kubera towers narayanguda, hydrabad, hyderabad, tg
+             p=0.000 p1=0.000 rank=132  S3-650004829 | kohinoor comp | 6-3-131/7, rangareddy, tg
+
+S1 S1-39380262 | polaris mortgage | 227 williams street, worthington, in   [US, #true=1, in-cands=1, union=1067]
+        TRUE p=0.110 p1=0.227 rank=1  S3-90118135 | polaris mortgage | 
+             p=0.003 p1=0.005 rank=12  S3-940721886 | polaris mortgage east | 232 williams st, worthinngton, indiana
+             p=0.000 p1=0.000 rank=128  S2-722031203 | hayes mortgage | 199 center street, waverly, ny
+             p=0.000 p1=0.000 rank=129  S2-462567781 | v+ mortgage | 28 1th street, temple, tx
+             p=0.000 p1=0.000 rank=130  S3-136549728 | express mortgage | 6448 19st st, washington, fircrest, c
+             p=0.000 p1=0.000 rank=131  S3-257722928 | walters mortgage | washington, 11406 beverly park rd, unit room 1, everett
+             p=0.000 p1=0.000 rank=132  S3-819158965 | cascade mortgage, | 3321 1/2 south ave, youngstown city, ohio
+             p=0.000 p1=0.000 rank=133  S3-115890543 | unified mortgage | rich ave, bloomington, minnesota
+
+S1 S1-818567431 | vidhu seva samiti | h. no. 1-10-208 ashok nagar, hyderabad, telangana   [India, #true=1, in-cands=1, union=1429]
+        TRUE p=0.047 p1=0.234 rank=21  S2-211257203 | vidhu seva samiti | 
+             p=0.001 p1=0.001 rank=17  S3-867637124 | greenfinanceprivate | 1-10-208 ashok nagar, hyderabad, kurnool, ఆంధరపరదేశ
+             p=0.000 p1=0.000 rank=0  S3-953653449 | vidhu seva samiti exports | no 1-10-213. ashok nagar, hyderabad, tg
+             p=0.000 p1=0.000 rank=128  S3-278218540 | solarc | h.no.1-10-146/7/2, flat no .a1, block -a, kundan towers, begumpet, hyderabad, telangana
+             p=0.000 p1=0.000 rank=129  S3-829391471 | blue food | plot no-10, dd colony, bagh amberpet, telangana, h no. 2-2-20/b/8, amberpet, hyderabad
+             p=0.000 p1=0.000 rank=130  S3-260402715 | at | d.no 1-10-75/1/1t06/205, 2nd floor, saptagirit, begumpet, secunderabad, hyderabad, telangana
+             p=0.000 p1=0.000 rank=131  S3-663186559 | yumawex+ | no.9, 3-10-5/1, shiva shakthi complex, trimulgherry secunderabad, hyderabad, telangana
+             p=0.000 p1=0.000 rank=132  S3-728883947 | brixrizairi | h.no. 9/hig-a &10/hig, aphb colony gachibowli, hyderabad, rangareddy, telangana
+
+S1 S1-142774243 | reed, mejia and nguyen | 165 127, woodhull, ny   [US, #true=1, in-cands=1, union=1618]
+        TRUE p=0.086 p1=0.149 rank=10  S2-588263690 | reed, mejia and nguyen | 
+             p=0.082 p1=0.143 rank=11  S2-332817125 | reed, mejia and nguyen | 
+             p=0.004 p1=0.008 rank=0  S2-772843644 | reed, mejia and nguyen services | 169 127, addison, ny
+             p=0.000 p1=0.000 rank=128  S2-181664107 | northern capital launch group | 165 mott avenue, hempstead, ny
+             p=0.000 p1=0.000 rank=129  S2-296849110 | greer reliable intermediate lp | 165 garden pkwy, henrietta, ny
+             p=0.000 p1=0.000 rank=130  S2-178749516 | knrmanulife | 165 ballantyne road, syracuse, ny
+             p=0.000 p1=0.000 rank=131  S2-644303121 | reyes's superior services | ny, 165a cottage st, middletown
+             p=0.000 p1=0.000 rank=132  S2-840981256 | maid seafood-l.l.c. | 165 peirson ave, newark, ny
+
+########## blocking_total_miss (abstained, nothing findable): 35 rows (showing 25) ##########
+
+S1 S1-871144610 | christ catholic church | 78 donald street, weymouth, ma, unit 31   [US, #true=1, in-cands=0, union=2086]
+             p=0.023 p1=0.046 rank=0  S3-721544696 | christ catholic church | 083 donald street, 31, weymouth, massachusetts
+             p=0.011 p1=0.057 rank=182  S2-45017713 | christ catholic church | 
+             p=0.000 p1=0.000 rank=127  S3-939150504 | secure clear services | 31 weymouth place, fairfield, ohio
+             p=0.000 p1=0.000 rank=128  S3-389584198 | xylociraio | 78 badger road, medford, ma
+             p=0.000 p1=0.000 rank=129  S3-153370095 | dee | 31 pumpkin circle, tyngsborough, ma
+             p=0.000 p1=0.000 rank=130  S3-738067995 | carmody | 31 skipping stone, plymouth, ma
+             p=0.000 p1=0.000 rank=131  S3-379380778 | ectozetakor | 31 thornton drive, barnstable, ma
+             p=0.000 p1=0.000 rank=132  S3-861988787 | bs | 31 village square, chelmsford, ma
+   MISSING-FROM-CANDIDATES  S2-143042344 | christ-church center | donald st, ma, weymouth
+
+S1 S1-413017315 | surgical physicians l.l.c. | phoenix, unit 1038, az, 17435 7th street   [US, #true=2, in-cands=0, union=1906]
+             p=0.019 p1=0.041 rank=14  S3-871645297 | surgical physicians | 17437 7st street, unit 1038, phoenix city, arizona
+             p=0.000 p1=0.000 rank=0  S3-151814800 | mirabella walters axiom | 17435 7th street, unit 2025, phoenix, arizona
+             p=0.000 p1=0.000 rank=127  S3-768044235 | pi clean joint greater | 20436-d 7nd street, unit 2088, phoenix, arizona
+             p=0.000 p1=0.000 rank=128  S3-464666023 | blueholdingsgroup | 10214 7th place, unit b, phoenix, arizona
+             p=0.000 p1=0.000 rank=129  S3-133743716 | secure launchpad | 19800 7th saint, unit 3060, phoenix, arizona
+             p=0.000 p1=0.000 rank=130  S3-284369941 | physical therapy phddisciaaos | 17625 7st street, unit 1089, phoenix, arizona
+             p=0.000 p1=0.000 rank=131  S3-614392155 | ace education | 10214 7th place, unit b, phoenix, arizona
+             p=0.000 p1=0.000 rank=132  S3-925860381 | l.l.c. mackay & ortega aviation | 35, phoenix, arizona, 7211. 7th st
+   MISSING-FROM-CANDIDATES  S2-395215144 | surgical l.l.c. services | 7st street, sunnyslope, az
+   MISSING-FROM-CANDIDATES  S3-896755945 | surgical physicians | 17435 seventh st, 1038, sunnyslope, arizona
+
+S1 S1-659698209 | noida wisdom | a-5 first floor, sector-4, noida, gautam buddha nagar, uttar pradesh   [India, #true=1, in-cands=0, union=504]
+             p=0.000 p1=0.000 rank=0  S3-970463744 | noida | sector-5, b-25, gautam buddha nagar, noida, उततर परदेश
+             p=0.000 p1=0.000 rank=127  S3-112545104 | wisdom educational society-company | no 4/6 piramal nagr indl.estates v road goregaon west, mumbai, mh
+             p=0.000 p1=0.000 rank=128  S3-116239083 | wisdom foundation enterprises | 7 panchsheel margchanakyapuri, new delhi, south delhi, दिलली
+             p=0.000 p1=0.000 rank=129  S3-197840321 | wisdom services exports | 4-d naaz cinema buildinglamington road, mumbai, mh
+             p=0.000 p1=0.000 rank=130  S3-86432537 | wisdom event infratech | lc-152, ada colony naini, allahabad, उततर परदेश
+             p=0.000 p1=0.000 rank=131  S3-337915343 | india wisdom investments | 372-b/1 rajapark, rj, jaipur
+             p=0.000 p1=0.000 rank=132  S3-838878166 | wisdom sons services | plot no - 484, khata no-471/312, jajpur, ଓଡିଶା
+             p=0.000 p1=0.000 rank=133  S3-691379227 | wisdom india holdings | no.41, bangalore north, bangalore, ka
+   MISSING-FROM-CANDIDATES  S2-639048665 | brixdrex | sector-4, gautam buddha nagar, uttar pradesh, noida, a-5 first floor
+
+S1 S1-454979536 | desert council | 15 apple road, unit 31, beverly, ma   [US, #true=1, in-cands=0, union=1607]
+             p=0.017 p1=0.050 rank=0  S3-747628956 | nexonyx council lp | massachusetts, 15 apple rd, unit 31, beverly
+             p=0.016 p1=0.053 rank=119  S3-329371006 | desert council | 
+             p=0.016 p1=0.064 rank=184  S2-373161795 | desert council | 
+             p=0.001 p1=0.001 rank=33  S2-656374463 | desert council | 696 vale st, chelsea, ma
+             p=0.000 p1=0.000 rank=128  S3-290818410 | fayexyloorbi | 31 r walter street, boston, ma
+             p=0.000 p1=0.000 rank=129  S3-891779040 | rizaxylo nee apex talent international | ma, 31 pleasant street, upton
+             p=0.000 p1=0.000 rank=130  S3-280822757 | quoorbi doing business as johnson motors | 15 whitney street, saugus, ma
+             p=0.000 p1=0.000 rank=131  S3-194217820 | tavozephsyn | 15 knollwood drive, bridgewater, ma
+   MISSING-FROM-CANDIDATES  S3-227995379 | desert council enterprises | 
+
+S1 S1-828080145 | valley academy | 3531 wapiti lane, spokane, wa   [US, #true=1, in-cands=0, union=1558]
+             p=0.018 p1=0.051 rank=22  S2-144437261 | valley academy | 
+             p=0.011 p1=0.058 rank=154  S3-306600717 | valley academy enterprises | 
+             p=0.008 p1=0.017 rank=0  S2-639580354 | valley academy | 3538 wapiti ln, spokane, wa
+             p=0.006 p1=0.011 rank=52  S3-659830104 | valley academy preparatory | 
+             p=0.005 p1=0.009 rank=41  S3-150460664 | valley academy | 
+             p=0.002 p1=0.003 rank=110  S3-378654943 | valleyacademy | 2631 walker mist lane, ktay city, texas
+             p=0.000 p1=0.000 rank=106  S2-984429350 | valley academy preparatory | rubystone dr, cheester, va
+             p=0.000 p1=0.000 rank=131  S3-537534831 | neal academy valley | 158 blackjack road, la vernia, texas
+   MISSING-FROM-CANDIDATES  S2-297447137 | valley center | 
+
+S1 S1-318756531 | vrk bpo | vasai, thane, gala no 23 and 24, shailesh industrial, complex, sativali road, modi hyundai showroom, vasai east, maharashtra, ground floor   [India, #true=1, in-cands=0, union=2039]
+             p=0.001 p1=0.003 rank=0  S3-237052504 | vrk bpo enterprises | h.no 3 ground floor, gala no 23 and 24, shailesh industrial, complex, sativali road, modi hyundai showroom, vasai east, vasai, thane, mh
+             p=0.000 p1=0.000 rank=127  S3-305357448 | vrk rolling | 4-1-10/1/2, tilak road ramkote, hyderabad, తెలంగాణ
+             p=0.000 p1=0.000 rank=128  S3-846795247 | bpo fashion | ii floor, kushinagar, up
+             p=0.000 p1=0.000 rank=129  S3-548470880 | ipgk bpo | ଓଡିଶା, balasore, no 85 angaragadia o.t. raod
+             p=0.000 p1=0.000 rank=130  S3-123292790 | jaipur bpo | door no 2, jaipur, rj
+             p=0.000 p1=0.000 rank=131  S3-373898136 | ipg bpo | 812, mumbai, andheri east, mh
+             p=0.000 p1=0.000 rank=132  S3-945518233 | bpo fashion | ii floor, padrauna, up
+             p=0.000 p1=0.000 rank=133  S3-401936339 | vrk rolling | 4-1-10/1/2, tilak road ramkote, hyderabad, తెలంగాణ
+   MISSING-FROM-CANDIDATES  S2-360275914 | vrk center | 
+
+S1 S1-786722125 | lakshmi marketing | flat no:102 , 145, ms enclave 9th cross, manjunatha layout, munnekolal, a, bangalore, karnataka   [India, #true=2, in-cands=0, union=3692]
+             p=0.064 p1=0.158 rank=63  S3-541589882 | lakshmi marketing | 
+             p=0.015 p1=0.045 rank=62  S3-431972653 | lakshmi marketing | 
+             p=0.008 p1=0.010 rank=0  S3-896566212 | lakshmi marketing | no e-10, bangalore, ಕರನಾಟಕ
+             p=0.001 p1=0.001 rank=5  S3-505573771 | shri quality advertising | door no 262 flat no.g8, saroj meadows, 9th cross, manjunatha layout, munnekolala, marathalli, bangalore, ka
+             p=0.000 p1=0.000 rank=144  S2-177673791 | lakshmi marketing | plot no. 20, khasra no. 39 nandri, jodhpur, rajasthan
+             p=0.000 p1=0.000 rank=128  S3-502992654 | apex-private center | ka, bangalore, h.no 145, bengaluru, 5th cross gandhi nagar
+             p=0.000 p1=0.000 rank=129  S3-693831332 | ram-infotech | 102 s v paradise 6th main 9th cross hbr layout, bengaluru, bangalore, ಕರನಾಟಕ
+             p=0.000 p1=0.000 rank=130  S3-440582156 | golden global | no.d/145, 7th sector hsr layout, bengaluru, bangalore, ka
+   MISSING-FROM-CANDIDATES  S2-49457181 | laxmi marketing | bangalore, karnataka, flat no:102 , bengaluru
+   MISSING-FROM-CANDIDATES  S3-824650663 | laxmi marketing | flat no:c-102 , bangalore, ka
+
+S1 S1-573169652 | real investment | orissa, khordha, plot no. 2443 mancheswar, bhubaneswar, rasulgarh   [India, #true=1, in-cands=0, union=1354]
+             p=0.008 p1=0.031 rank=186  S3-437421508 | real investment | 
+             p=0.000 p1=0.000 rank=0  S3-607140440 | real investment ସୱିଟସ | < >, plot no. 2456 mancheswar, rasulgarh, bhubaneswar, od
+             p=0.000 p1=0.000 rank=127  S3-188993511 | surya construction | plot no-364, bhubaneswar, mancheswar, od
+             p=0.000 p1=0.000 rank=128  S3-780367855 | universal engineering | sector-a, mancheswar industrial estate, ଓଡିଶା, khordha, bhubaneswar, plot no-a/b3/57
+             p=0.000 p1=0.000 rank=129  S3-559484834 | vrc amaravathi | plot no- s-3/87 mancheswar, khordha, od
+             p=0.000 p1=0.000 rank=130  S3-486148763 | public pantheon producer of bhubaneswar | khordha, plot no-171/969, od, rudrapur, naharkanta p.s. mancheswar, bhubaneswar, bhubaneswar
+             p=0.000 p1=0.000 rank=131  S3-862004928 | noa innovations | plot no-2490, gadakana mancheswar, , orissa
+             p=0.000 p1=0.000 rank=132  S3-336305980 | nyladeltaio | plot no- 4089, pokhakula, gadakana, po- mancheswar railway colony, bhubaneswar, khordha, orissa
+   MISSING-FROM-CANDIDATES  S3-895942589 | real investment enterprises | 
+
+S1 S1-745868890 | deep traders | 54-8-23, plot no 28 and 29 1st floor, 2nd cross 2nd road autonagar, vijayawada, krishna, andhra pradesh   [India, #true=1, in-cands=0, union=3084]
+             p=0.095 p1=0.473 rank=182  S2-448244961 | deep traders | 
+             p=0.021 p1=0.039 rank=180  S2-417007709 | deep traders | 
+             p=0.000 p1=0.000 rank=0  S3-478902388 | deep traders infratech | 054-8-25, vijayawada, krishna, ap
+             p=0.000 p1=0.000 rank=127  S3-44308213 | one it | d.no.27-23-265, gopal reddy road, governerpet, vijayawada, krishna, ap
+             p=0.000 p1=0.000 rank=128  S3-481766354 | vijayawada | 54-14/8-55, flat no.8, road no.2 bharathi nagar, vijayawada, krishna, ap
+             p=0.000 p1=0.000 rank=129  S3-618978752 | apogee &-brothers | 54-20/3-12/8, plot no 52, gurunanak nagar, patamata, gurunanak nagar, krishna, vijayawada, ap
+             p=0.000 p1=0.000 rank=130  S3-239091885 | one it prvliate | no 27-23-265, gopal reddy road, governerpet, vijayawada, krishna, ap
+             p=0.000 p1=0.000 rank=131  S3-17746150 | privatehyderabadmills | plot no 2-3-54/a- shanthi nagar uppal, hyderabad, andhra pradesh
+   MISSING-FROM-CANDIDATES  S2-115041607 | deep traders enterprises | 
+
+S1 S1-374794536 | nagraj plus | 106 jash yarn textile marketring road, surat, gujarat   [India, #true=1, in-cands=0, union=1489]
+             p=0.000 p1=0.000 rank=0  S3-48165194 | naggraj plus pvt.-ltd. | surat, 111 jash yarn textile marketring road, surat, gj
+             p=0.000 p1=0.000 rank=127  S3-774910022 | wi | 106, maruti sankalp, opp. apc anand - vv nagar road, anand, gujarat
+             p=0.000 p1=0.000 rank=128  S2-491364082 | dr classic care | gujarat, 3010/2, jash textile & yarn market ring road,
+             p=0.000 p1=0.000 rank=129  S2-810602942 | surat center | door no jash marketring road, surat, gujarat
+             p=0.000 p1=0.000 rank=130  S3-716753681 | ess xpress | 1119- shivshakti marketring road, surat, ગુજરાત
+             p=0.000 p1=0.000 rank=131  S3-901265711 | bombay first enterprises | s/a-141 j j a/c marketring road, surat, gj
+             p=0.000 p1=0.000 rank=132  S3-951871315 | bombay consulting | 301 shiv marketring road, surat, ગુજરાત
+             p=0.000 p1=0.000 rank=133  S3-691703686 | gsseva | 468 abhishek marketring road, surat, ગુજરાત
+   MISSING-FROM-CANDIDATES  S2-777318310 | nagraj partners | 
+
+S1 S1-577040614 | chk health | b 201, anuroop chs, jekegram, samata nagar, pokhran road 1, thane west, thane, maharashtra   [India, #true=3, in-cands=0, union=1649]
+             p=0.014 p1=0.020 rank=2  S2-979619578 | cwk hfslth #92478 | b 214, anuroop chs, jekegram, samata nagar, pokhran road 1, thane west, thane, maharashtra
+             p=0.000 p1=0.000 rank=0  S3-568841580 | global consultants | b 201, anuroop chs, jekegram, samata nagar, pokhran road 1, thane west, thane, maharashtra
+             p=0.000 p1=0.000 rank=127  S3-29066201 | bhasin services | atharva park, 403, b-wing, 4th floor, shivai nagar pokhran road no. 1 thane , bombay, thane, mh
+             p=0.000 p1=0.000 rank=128  S2-821258676 | ambuja academy | b2/404, vihang garden, pokhran road no 1, near samata nagar, opp raymond company, thane, महाराषटर
+             p=0.000 p1=0.000 rank=129  S2-994611405 | ameya exim | 702, 7th floor, new gulmohar sundarvan park, pokhran road no.1, samata nagar, thane , thane, महाराषटर
+             p=0.000 p1=0.000 rank=130  S3-889735133 | kanda light clcecc | mumbai, epsilon, tower a, samata nagar, kandivali east, 105 1st floor, mh
+             p=0.000 p1=0.000 rank=131  S3-694946127 | compu foundry | mumbai, kandivali east, d wing, sarova complex, samata nagar, thakur village, kandivali east, d1-201, महाराषटर
+             p=0.000 p1=0.000 rank=132  S2-121079149 | producer universal riders | b-d/5, building no 9, devidaya nagar, pokhran road no 1, thane, maharashtra
+   MISSING-FROM-CANDIDATES  S2-392067716 | chk services | b 201, thane, maharashtra
+   MISSING-FROM-CANDIDATES  S3-222479076 | chkhealth | b 201, thane, mh
+   MISSING-FROM-CANDIDATES  S3-683564360 | chkhealth | b 201, thane, mh
+
+S1 S1-972674602 | casoft | 415 county street, unit 106, new bedford, ma   [US, #true=1, in-cands=0, union=1758]
+             p=0.023 p1=0.104 rank=25  S2-422336432 | casoft | 
+             p=0.009 p1=0.028 rank=44  S3-975381955 | casoft | 
+             p=0.006 p1=0.009 rank=1  S3-484044515 | xic services | 415 county street, unit 314, new bedford, massachusetts
+             p=0.000 p1=0.000 rank=128  S3-456776734 | boisvert's | 3162 berry lane, unit apt 106, roanoke county, va
+             p=0.000 p1=0.000 rank=129  S3-812862729 | lumarc | 8700 keswick drive, unit apt 415, spotsylvania county, va
+             p=0.000 p1=0.000 rank=130  S3-924437803 | casoft worldwide | ohio, 219 sylvanus street, po box 5618, archbold
+             p=0.000 p1=0.000 rank=131  S3-992508430 | the casoft | 1 a-5 sand hill dr, moreau, new york
+             p=0.000 p1=0.000 rank=132  S3-217657806 | casoft obic | 114 dune rd, westhampton beach, new york
+   MISSING-FROM-CANDIDATES  S2-883627935 | cnasoft | 41 county st, new bedford, ma
+
+S1 S1-453783164 | urgent care partners | 511 l street, fl 0, grants pass, or   [US, #true=1, in-cands=0, union=791]
+             p=0.007 p1=0.031 rank=199  S2-95655365 | urgent care partners | 
+             p=0.003 p1=0.004 rank=124  S3-794404293 | urgent care partners, | 
+             p=0.000 p1=0.000 rank=146  S3-218690422 | urgent care partners | 27985 hydra ct, lakeville, minnesota
+             p=0.000 p1=0.000 rank=127  S3-627805882 | urgent care partners, | 1406 clover hill rd, mansfield, texas
+             p=0.000 p1=0.000 rank=128  S3-933280038 | urgent care partners | 6914 echo glen drive, chattanooga, tennessee
+             p=0.000 p1=0.000 rank=129  S3-388410071 | urgent care partners | 1223 jefferson avenue, texas, mount pleasant
+             p=0.000 p1=0.000 rank=130  S3-885911360 | urgent care partners | 7416b machipongo dr, northampton county, virginia
+             p=0.000 p1=0.000 rank=131  S3-400538412 | urgent care partners | 57 price rd, jacksons gap, alabama
+   MISSING-FROM-CANDIDATES  S3-181882505 | urgent care partners | 513 l st, fl. 0, grants pass, oregon
+
+S1 S1-508774269 | riddhi college | c/o: neelam modi, kakka, colony, gopal bhawan, mauranipur, jhansi, uttar pradesh   [India, #true=1, in-cands=0, union=1338]
+             p=0.007 p1=0.016 rank=27  S3-339911885 | riddhi center | 
+             p=0.006 p1=0.017 rank=131  S2-628177939 | riddhi | 
+             p=0.001 p1=0.001 rank=74  S3-378547244 | riddhi center | 
+             p=0.001 p1=0.002 rank=0  S2-384279989 | riddhi hotels | door no 59 c/o: neelam modi, kakka, colony, gopal bhawan, mauranipur, uttar pradesh
+             p=0.000 p1=0.000 rank=106  S2-222678571 | riddhi college ventures | delhi, shop no. pvt-11a, plot no.109, front portion ground floor, banarasi dass est, timarpur
+             p=0.000 p1=0.000 rank=129  S2-637492385 | riddhi -one | door no 8 , a.y tower, adarsh colony jafar nagar, katol road, nagpur, महाराषटर
+             p=0.000 p1=0.000 rank=130  S2-912786266 | riddhi one | maharashtra, plot no.8 , a.y tower, adarsh colony jafar nagar, katol road, nagpur
+             p=0.000 p1=0.000 rank=103  S3-776169306 | riddhi traders center | 1202, mumbai, mh
+   MISSING-FROM-CANDIDATES  S2-318334334 | riddhi ceotsege | 
+
+S1 S1-107721065 | straight edge cleaning service | 4722 willow springs lane, fort worth, tx   [US, #true=1, in-cands=0, union=2130]
+             p=0.008 p1=0.021 rank=75  S2-138128215 | straight edge cleaning service | 
+             p=0.007 p1=0.026 rank=178  S3-32348012 | straight edge cleaning service lp | 
+             p=0.006 p1=0.053 rank=184  S2-573247835 | straight edge cleaning service | 
+             p=0.006 p1=0.034 rank=186  S2-778199368 | straight edge service cleaning | 
+             p=0.006 p1=0.032 rank=173  S3-965581144 | straight edge cleaning service enterprises | 
+             p=0.005 p1=0.008 rank=131  S3-262186365 | straight edge cleaning service | 
+             p=0.003 p1=0.004 rank=124  S3-768637164 | straight cleaning edge service | 
+             p=0.001 p1=0.001 rank=0  S2-420525320 | straight edge cleaning service north | fort worth, 4733 willow springs ln, tx
+   MISSING-FROM-CANDIDATES  S3-678099933 | straight edge cleaning serie | 
+
+S1 S1-222863811 | blue alpha consulting | 18/376 indira nagar, lucknow, uttar pradesh   [India, #true=2, in-cands=0, union=2408]
+             p=0.009 p1=0.012 rank=2  S3-749892954 | korlumonyx | 18/3 indira nagar, lucknow, uttar pradesh
+             p=0.000 p1=0.000 rank=0  S3-411023211 | umbraumbra sys | h18/410 indira nagar, lucknow uttar pradesh, lucknow, uttar pradesh
+             p=0.000 p1=0.000 rank=127  S3-367011993 | hr | uttar pradesh, 86/18, block-9 govind nagar, kanpur
+             p=0.000 p1=0.000 rank=128  S3-356725935 | mr dp enterprises industries | door no 18/199 indira nagar, lucknow, up
+             p=0.000 p1=0.000 rank=129  S3-278393075 | global properties medicals | lucknow, h.no 601 huse no 18/3 sector-27 indira nagar, उततर परदेश
+             p=0.000 p1=0.000 rank=130  S3-754930028 | capital abrasive | door no 12/18 indira nagar, lucknow, up
+             p=0.000 p1=0.000 rank=131  S3-948478970 | maa & associates | lucknow, door no 18/164 indira nagar, lucknow, up
+             p=0.000 p1=0.000 rank=132  S3-55755411 | solxylo | e-18 ganga sagar, ganga nagar, meerut, uttar pradesh
+   MISSING-FROM-CANDIDATES  S3-76227111 | blue alpsha consulting | 
+   MISSING-FROM-CANDIDATES  S3-88059413 | blue apdar consulting | 
+
+S1 S1-205384544 | commission on education | 3505 carla drive, rowlett, tx   [US, #true=1, in-cands=0, union=1395]
+             p=0.007 p1=0.012 rank=99  S2-814570067 | commission on education | 
+             p=0.006 p1=0.010 rank=149  S3-583990860 | commission education center | 
+             p=0.006 p1=0.014 rank=113  S2-605178463 | commission on education | 
+             p=0.005 p1=0.007 rank=0  S3-148689206 | commission on educaion | 3516-3520 carla drive, rowlett, texas
+             p=0.002 p1=0.002 rank=85  S3-957614123 | the commission on education | 4089 jobs drive, terrell, north carolina
+             p=0.000 p1=0.000 rank=4  S2-848727109 | on commission education | 509 road 591638, cleveland, tx
+             p=0.000 p1=0.000 rank=128  S2-92391462 | commission on education | 1097 los ebanos blvd, brownsville, tx
+             p=0.000 p1=0.000 rank=129  S2-55122831 | on commission education | 610 flintwood dr, colmubus, in
+   MISSING-FROM-CANDIDATES  S3-694669947 | commission on education enterprises | 
+
+S1 S1-669019638 | pediatric dental piedmont group | st. george city, la, 9035 lake ridge drive   [US, #true=2, in-cands=0, union=2290]
+             p=0.043 p1=0.122 rank=35  S2-8794108 | pediatric dental piedmont | 
+             p=0.013 p1=0.022 rank=0  S3-900865655 | pediatric dental piedmont 6roup | 9036 lake ridge dr, st. george city, louisiana
+             p=0.000 p1=0.000 rank=128  S3-56674584 | pediatric dental piedmont physicians | 
+             p=0.000 p1=0.000 rank=129  S3-360434819 | center pediatric piedmont dental | 34 hickory rd, bayville, new york
+             p=0.000 p1=0.000 rank=130  S3-212369474 | pediatric dental piedmont clinic | 212 hdnover rd, phoeniville, pennsylvania
+             p=0.000 p1=0.000 rank=131  S3-467892671 | group piedmont dental associates | 1479 bartram fork road, genoa, west virginia
+             p=0.000 p1=0.000 rank=132  S3-399050390 | pediatric dental piedmont health | 1548 greensview lane, washington court house, ohio
+             p=0.000 p1=0.000 rank=133  S3-563633392 | pediatric dental piedmont physicians | 246 valley view trail, franklin, north carolina
+   MISSING-FROM-CANDIDATES  S2-188935412 | pediatric dental | lake ridge dr, baton rouge, la
+   MISSING-FROM-CANDIDATES  S3-119884277 | pediatric dental group services | lake ridge dr, baton rouge, louisiana
+
+S1 S1-260151046 | kavi edibles | near t v relay station, k. c rani road, c/o v r mulagond, gadag, karnataka   [India, #true=1, in-cands=0, union=1607]
+             p=0.214 p1=0.515 rank=121  S2-569411262 | kavi center | 
+             p=0.012 p1=0.015 rank=0  S3-741464465 | dr kavi metals | h.no 15 c/o v r mulagond, near t v relay station, k. c rani road, gadag, ka
+             p=0.002 p1=0.002 rank=41  S3-453734602 | kavi enterprises | 
+             p=0.000 p1=0.000 rank=128  S2-792159109 | kavi ventures | plot no b-17, sector-81, noida, uttar pradesh
+             p=0.000 p1=0.000 rank=129  S2-323015446 | khair edibles | no 34 c/o satyanarayan radhakishan, matoshri niwas, barad, nanded, maharashtra
+             p=0.000 p1=0.000 rank=130  S2-876124103 | kavi polytechnic | flatno-1002, sumeru block saketsriyamapartments, medchal, malkajgiri, hyderabad, andhra pradesh
+             p=0.000 p1=0.000 rank=131  S2-89313933 | kavi polytechnic | 996 house no. 191, srigouri, akhandabari purba medinipur, nandigram, west bengal
+             p=0.000 p1=0.000 rank=132  S2-281862256 | kavi design | shop no- 14 f, laxmi vardan complex patrakar puram, gomti nagar, lucknow, uttar pradesh
+   MISSING-FROM-CANDIDATES  S2-275433169 | jaxarczeph | c/o v r mulagond, gadag, ಕರನಾಟಕ
+
+S1 S1-786274404 | varshita basket | shop no. 16, plot no. 44 & 45, sea lounge, sector -15, cbd belapur, mumbai, mumbai, mumbai city, maharashtra   [India, #true=3, in-cands=0, union=2455]
+             p=0.002 p1=0.005 rank=0  S2-489294258 | varshiti basket | महाराषटर, no 16 , plot no. 44 & 45, sea lounge, sector -15, cbd belapur, mumbai, mumbai
+             p=0.000 p1=0.000 rank=127  S3-318521265 | agro random basket ventures | no 23 chhatrapati shahu co-op inustrial estat, e, shirol, mh
+             p=0.000 p1=0.000 rank=128  S3-761977307 | irivantagepyra | flat-201, plot no.50 sector-44, nerul, navimumbai, thane, maharashtra
+             p=0.000 p1=0.000 rank=129  S3-396683156 | fayeriza | sea breeze t-7, flat 201, sector 16, plot 16, nerul, thane, maharashtra
+             p=0.000 p1=0.000 rank=130  S3-848267337 | chaudhary institute of techno1ogy care | off-11/ii-floor plot-44 sector 11 cbd, raigarh, mumbai, महाराषटर
+             p=0.000 p1=0.000 rank=131  S2-131275115 | lnfrastructure group | thane, navi mumbai, maharashtra, the bombay coop commercial premises plot no.43, sector 11, cbd belapur, shop no. 16
+             p=0.000 p1=0.000 rank=132  S3-935974205 | al infotech | office no. 27, 1st floor, b-wing, sai chamber, plot no.- 44, sector-11, cbd belapur, thane, mh
+             p=0.000 p1=0.000 rank=133  S3-922661346 | ram digital food general | room no. 3-12, 3rd floor, sai chambers, plot no.44, sector-11, c.b.d belapur, navi mumbai, thane, mh
+   MISSING-FROM-CANDIDATES  S3-718902301 | varshita center | 
+   MISSING-FROM-CANDIDATES  S3-793479339 | varshita bsekte | 16, mh, mumbai
+   MISSING-FROM-CANDIDATES  S3-531307328 | solvera | shop no. 16, mumbai city, mh
+
+S1 S1-246317166 | jayesh hospital | kolkata, 25, swallow lane, kolkata, 2 nd floor, west bengal, howrah   [India, #true=1, in-cands=0, union=1595]
+             p=0.513 p1=0.758 rank=0  S2-172992635 | jayesh hospital | no 9 nd floor, 25, swallow lane, kolkata, kolkata, west bengal
+             p=0.001 p1=0.001 rank=185  S3-691933926 | jayesh solcutonas | 228/3/1, howrah, wb
+             p=0.000 p1=0.000 rank=127  S2-694119587 | narirealty | g-25/5, narsingh bose lane fazirbazar, howrah 1, kolkata, west bengal
+             p=0.000 p1=0.000 rank=128  S2-207706870 | pioneer foundation গারমেনটস | howrah, west bengal, c-25th floor, 11a, kalakar street, kolkata, kolkata
+             p=0.000 p1=0.000 rank=129  S2-454165793 | 8lack lgisitsc | h.no 25 n. s. road 5th floor, kolkata, howrah, west bengal
+             p=0.000 p1=0.000 rank=130  S2-149571578 | public kolkata homes | p-25, c.i.t. road scheme - 55, 3rd floor, howrah, kolkata, west bengal
+             p=0.000 p1=0.000 rank=131  S3-300890194 | shah | calcutta, west bengal, mission court4th floor suite-f 25 r n kukherjee road, kolkata
+             p=0.000 p1=0.000 rank=132  S2-735462734 | sunrise enterprises technologies | no. 116 25, kolkata, howrah, west bengal
+   MISSING-FROM-CANDIDATES  S3-182313219 | jayeshhospital | পশচিমবঙগ, h.no 002 nd floor, , kolkata
+
+S1 S1-744377260 | reyes fidelity | 8600 9th way, fl 1, olympia, wa   [US, #true=2, in-cands=0, union=1919]
+             p=0.270 p1=0.880 rank=182  S2-631083977 | reyes fidelity | 
+             p=0.002 p1=0.002 rank=2  S3-485925339 | brixvio | 3620 25th way, fl 1, olympia, wa
+             p=0.000 p1=0.000 rank=0  S2-181587644 | reyes fidelity partners | 8602 9th way, olympia, wa
+             p=0.000 p1=0.000 rank=127  S3-212676941 | deltakeloflux nee reding sterling development | 2323 cedar park loop, fl 1, olympia, wa
+             p=0.000 p1=0.000 rank=128  S3-624054606 | calobelo sys nee adrea tapper rmg | 4408 glen terra drive, fl 1, olympia, wa
+             p=0.000 p1=0.000 rank=129  S3-849271018 | veraumbra | 7034 prairie ridge drive, fl 1, olympia, wa
+             p=0.000 p1=0.000 rank=130  S3-23313478 | zephkelo | 9118 big bear court, fl 1, olympia, wa
+             p=0.000 p1=0.000 rank=131  S3-84309429 | vision | 5748 red alder drive, fl 1, olympia, wa
+   MISSING-FROM-CANDIDATES  S3-369762207 | reyes center | 
+   MISSING-FROM-CANDIDATES  S3-432826321 | reye fidelity | 8599 ninth way, floor 1, olympia, washington
+
+S1 S1-931159071 | new delhi ville | 8 a, 3rd floor, ber sarai, new delhi, south west delhi, delhi   [India, #true=1, in-cands=0, union=1545]
+             p=0.000 p1=0.000 rank=0  S3-905217198 | new delhi ville enterprises | 1-9 a, 3rd floor, ber sarai, south west delhi, dl
+             p=0.000 p1=0.000 rank=127  S2-224496774 | hari services | 301 and 302, 3rd floor, yusuf sarai commercial complex, south delhi, new delhi, delhi
+             p=0.000 p1=0.000 rank=128  S2-779073400 | bombay impex | 3rd floor, paryavaran complex, saidulajab, neb sarai, दिलली, south delhi, new delhi, b-26
+             p=0.000 p1=0.000 rank=129  S2-129206857 | surya industries | f-126, 3rd floor, flat no. 04, kh no. 193, lado sarai new delhi, delhi, south delhi, delhi
+             p=0.000 p1=0.000 rank=130  S2-880386938 | magnate & brothers | f-554, 3rd floor village ldo sarai, new delhi, delhi
+             p=0.000 p1=0.000 rank=131  S2-555045378 | smt bio plantation enterprises | 170-a , 3rd floor sarai jullena n.f. colony, new delhi, delhi
+             p=0.000 p1=0.000 rank=132  S2-667517568 | magnate & brothers | f-554, 3rd floor village lado sarai, new delhi, delhi
+             p=0.000 p1=0.000 rank=133  S3-303480503 | all golden tech | door no 3th floor, flat no.400-a, ajit singh, house, comm. complex yusuf sarai, new delhi, south west delhi, dl
+   MISSING-FROM-CANDIDATES  S3-184476593 | new delhi partners | 8 a, south west delhi, new delhi, dl
+
+S1 S1-916466635 | dermatology physicians | ofallon, mo, 23 parkland place court   [US, #true=1, in-cands=0, union=1964]
+             p=0.035 p1=0.085 rank=0  S2-752135329 | dermatology physicians | 25 parkland place court, ofallon, mo
+             p=0.000 p1=0.000 rank=127  S3-366739181 | anthony, dominguez & wood pinnacle partners | batesviille, indiana, 23 daimler court
+             p=0.000 p1=0.000 rank=128  S3-438940676 | shana f. her, | 23 summit place, newburyport, massachusetts
+             p=0.000 p1=0.000 rank=129  S3-856636519 | pinnacle | 23 tattersaul court, reisterstown, maryland
+             p=0.000 p1=0.000 rank=130  S3-482728487 | safe bright environmental services | 23 pebble place, fredericksburg, virginia
+             p=0.000 p1=0.000 rank=131  S3-176228568 | yumalum | 23 woodlawn place, longmeadow, ma
+             p=0.000 p1=0.000 rank=132  S3-651039743 | jenn hodge usa | 23 kower court, mechanicsburg, pennsylvania
+             p=0.000 p1=0.000 rank=133  S3-855750572 | furey-trusted distribution l.l.c. | 23 moody place, delaware, nwark
+   MISSING-FROM-CANDIDATES  S3-815486578 | dermatology partners ventures | 
+
+S1 S1-123927252 | meridian intelligence | 4488 mountain view road, fort mohave, az   [US, #true=1, in-cands=0, union=1272]
+             p=0.007 p1=0.024 rank=151  S3-648999429 | meridian industries | 
+             p=0.005 p1=0.011 rank=68  S3-306319215 | meridian industries | 
+             p=0.001 p1=0.001 rank=0  S3-332894201 | partners meridian intelligence | 4490 mountain view rd, fort mohae, arizona
+             p=0.000 p1=0.000 rank=128  S3-495490523 | capital intelligence | 
+             p=0.000 p1=0.000 rank=129  S3-215782322 | federal intelligence | crimson lane, city of oshkosh, wisconsin
+             p=0.000 p1=0.000 rank=130  S3-815468830 | great intelligence | 
+             p=0.000 p1=0.000 rank=131  S3-618513473 | data intelligence | 108 tretnon avenue, tulsa, oklahoma
+             p=0.000 p1=0.000 rank=132  S3-660383312 | classic intelligence | 2933 florida street, d, greensboro, north carolina
+   MISSING-FROM-CANDIDATES  S2-489214804 | meridian itdllidgenece | fort mohave, 448 mountain view rd, az
+
+########## partial_extra_fp: 314 rows (showing 25) ##########
+
+S1 S1-796913090 | srivas hospital | hyderabad, 11-10-221/1, road no.2 vijayapuri colony, kothapet, telangana, plot no.3, hyderabad   [India, #true=3, in-cands=3, union=2341]
+   PRED TRUE p=0.992 p1=0.949 rank=3  S3-650079077 | srivas hospital | plot no.3, hyderabad, tg
+   PRED TRUE p=0.986 p1=0.948 rank=2  S3-453657650 | srivas hospital | plot no.3, hyderabad, tg
+   PRED TRUE p=0.965 p1=0.972 rank=0  S2-251603420 | srivas hospital | plot no.1 , 11-10-221/1, road no.2 vijayapuri colony, kothapet, hyderabad, telangana
+   PRED      p=0.722 p1=0.671 rank=181  S2-531609889 | srivas-hospital | 
+             p=0.523 p1=0.235 rank=1  S2-547182367 | sri srivas risk | plot no.10, 11-10-221/1, road no.2 vijayapuri colony, kothapet, hyderabad, telangana
+             p=0.269 p1=0.235 rank=5  S3-240248486 | srivas hospital | 
+             p=0.000 p1=0.000 rank=128  S3-871630640 | jaxveo | plot no. 11, s no. 105, chanda nagar, tirumalagiri, hyderabad, telangana
+             p=0.000 p1=0.000 rank=129  S3-661374748 | iriaviio | 5d, ten madhapur, plot no. 10, sector 1, madhapur., hyderabad, telangana
+
+S1 S1-118436988 | kaarya properties | ground floor, 117 a/g1, nethaji street, velacherry main road, tambaram, kanchipuram, tamil nadu   [India, #true=3, in-cands=3, union=2160]
+   PRED TRUE p=0.975 p1=0.955 rank=0  S3-162798316 | smt kaarya properties | plot 215 ground floor, 117 a/g1, nethaji street, velacherry main road, kanchipuram, தமிழநாடு
+   PRED      p=0.927 p1=0.850 rank=2  S2-129674823 | smt kaarya trading | h.no 31 ground floor, 117 a/g1, nethaji street, velacherry main road, tambaram, < >, தமிழநாடு
+   PRED TRUE p=0.917 p1=0.709 rank=5  S3-188019244 | kaarya propris | plot 215 ground floor, tambaram, kanchipuram, தமிழநாடு
+   PRED TRUE p=0.892 p1=0.864 rank=1  S2-904613473 | kaarya services | ground floor, 17 a/g1, nethaji street, velacherry main road, tambaram, தமிழநாடு
+             p=0.000 p1=0.000 rank=128  S3-275299370 | marketing akash infotech | no.117/13, ground floor, gnt road, puzhal, chennai, ponneri, tiruvallur, tn
+             p=0.000 p1=0.000 rank=129  S3-971659623 | nidhi uttarpara serampur | hn 00221 fl-g1, ground floor, 117 netaji subhash road, serampur uttarpara, wb
+             p=0.000 p1=0.000 rank=130  S3-233169021 | nidhi serampur | wb, hn 00221 fl-g1, ground floor, 117 netaji subhash road, serampur uttarpara
+             p=0.000 p1=0.000 rank=131  S3-693739127 | sudiksha institute of technology | d/117/a, shri, 4th floor 18th main road, sector 3, hsr layout, bangalore, ka
+
+S1 S1-884054599 | celeste m. morris, dds | 1796 skippers road, greensville county, va   [US, #true=3, in-cands=3, union=2901]
+   PRED TRUE p=1.000 p1=1.000 rank=3  S2-398096529 | ce1estemmorris | 1796 skippers road, greensville county, va
+   PRED TRUE p=1.000 p1=0.999 rank=1  S3-417158129 | celeste services dds morris, | 1796 skippers road, emporia, virginia
+   PRED TRUE p=1.000 p1=0.999 rank=0  S3-967463819 | celeste morris, dds center | 1796 skippers road, emporia, virginia
+   PRED      p=0.985 p1=0.985 rank=2  S3-34734014 | celeste m. morris, dtds | 1796 skippers rd, emporia, virginia
+             p=0.016 p1=0.054 rank=4  S3-727210835 | celeste m. morris, dds | barlow way, owens cross roads, alabama
+             p=0.000 p1=0.000 rank=129  S3-439389761 | laina gamez gss, | 5 peach ln, greensville county, virginia
+             p=0.000 p1=0.000 rank=130  S3-604810939 | elsy hood supreme airport | 418 hillop ln, greensville county, virginia
+             p=0.000 p1=0.000 rank=131  S3-774999549 | woodruff and lindsey | 195 concord ln, virginia, greensville county
+
+S1 S1-39634614 | tara trading | room no. 17/469 e, karuvanpadi, mudur p.o., mudur, ponnani, ponnani, malappuram, malapuram, kerala   [India, #true=3, in-cands=3, union=2291]
+   PRED TRUE p=1.000 p1=1.000 rank=1  S3-988450435 | tara trading | room no. 17/469 e, karuvanpadi, mudur p.o., mudur, ponnani, ponnani, malappuram, kl
+   PRED TRUE p=1.000 p1=1.000 rank=3  S2-290604269 | tara trading-private | room no. 17/469 e, karuvanpadi, mudur p.o., mudur, ponnani, ponnani, malappuram, kerala
+   PRED TRUE p=1.000 p1=0.999 rank=0  S2-283495051 | tara trading | room no. 17/469 e, karuvanpadi, mudur p.o., mudur, ponnani, ponnani, malappuram, kerala
+   PRED      p=0.868 p1=0.939 rank=135  S2-378257348 | sri tara trading | 
+             p=0.000 p1=0.000 rank=128  S3-537851010 | gujarat food | g-17/167e, malappuram, malapuram, kl
+             p=0.000 p1=0.000 rank=129  S3-208060469 | malappuram enterprises | 18/17, malappuram, malapuram, kl
+             p=0.000 p1=0.000 rank=130  S3-447838640 | global greyhound trustee | d/17/334/b, malapuram, malappuram, kl
+             p=0.000 p1=0.000 rank=131  S2-533914512 | parkingbig | building no a-17/1187, kuttippuram, malapuram, malappuram, kerala
+
+S1 S1-168510603 | east delhi services | d-288-89/10, cabin no. 203, wadhwacomplex, laxmi nagar, east delhi, delhi   [India, #true=4, in-cands=4, union=3477]
+   PRED TRUE p=1.000 p1=1.000 rank=7  S3-917234531 | iririza sys | d-288-89/10, cabin no. 203, wadhwacomplex, laxmi nagar, east delhi, delhi
+   PRED TRUE p=1.000 p1=0.999 rank=0  S3-409516014 | east delhi services | d-288-89/10, cabin no. 203, wadhwacomplex, laxmi nagar, east delhi, dl
+   PRED TRUE p=0.998 p1=0.993 rank=4  S3-915839931 | east dri services | d-288-89/10, cabin no. 203, wadhwacomplex, laxmi nagar, east delhi, दिलली
+   PRED      p=0.988 p1=0.978 rank=1  S2-700008876 | east delhi services | d-9-288-89/10, cabin no. 203, wadhwacomplex, laxmi nagar, east delhi, दिलली
+   PRED TRUE p=0.921 p1=0.905 rank=2  S2-723510935 | east delhi services | d-9-288-89/10, cabin no. 203, wadhwacomplex, laxmi nagar, east delhi, delhi
+             p=0.360 p1=0.383 rank=10  S3-607699596 | gildhalo | d-288-89/10, cabin no. 203, wadhwacomplex, laxmi nagar, east delhi, delhi
+             p=0.039 p1=0.038 rank=41  S3-985599526 | east delhi services | east delhi, dl, east delhi, a-107
+             p=0.017 p1=0.019 rank=20  S2-61142538 | smt zoneinstitute.com | d-9-288-89/10, cabin no. 203, wadhwacomplex, laxmi nagar, east delhi, दिलली
+
+S1 S1-428904679 | urgent care partners of central point | 60 4th street, central point, fl 1, or   [US, #true=5, in-cands=4, union=3961]
+   PRED TRUE p=1.000 p1=0.999 rank=1  S2-235162265 | urgent care partners of central point | central ppoint, or, 60 4nd st
+   PRED TRUE p=1.000 p1=0.999 rank=0  S2-709915823 | urgent care partners of central point | or, central ppoint, 60 4nd st
+   PRED TRUE p=1.000 p1=0.999 rank=2  S2-211538251 | urgent partners care of central point | 60 4nd st, central ppoint, or
+   PRED      p=0.946 p1=0.910 rank=129  S2-102183202 | c0rnerstone | 60 4nd street, central ppoint, or
+             p=0.697 p1=0.696 rank=3  S3-39219039 | kelozeta | 60 4th street, fl 1, central point, or
+        TRUE p=0.505 p1=0.541 rank=21  S3-333809420 | dovavio | 60 4th st, fl 1, central point, oregon
+             p=0.286 p1=0.325 rank=43  S3-102689333 | corrnesrtoone | oregon, central point, 60 4th st
+             p=0.034 p1=0.064 rank=17  S3-597814695 | taa-realty taa-realty | 60 fourth street, fl. 1, central point, oregon
+   MISSING-FROM-CANDIDATES  S3-882607999 | urgent care padnrs of central point | 
+
+S1 S1-992238013 | super solutions | 167 old china bazar street, kolkata, howrah, west bengal   [India, #true=3, in-cands=3, union=1487]
+   PRED TRUE p=1.000 p1=1.000 rank=0  S2-908770807 | super solutions | 167 old china bazar street, kolkata, dalhousie kolkata, howrah, west bengal
+   PRED TRUE p=1.000 p1=1.000 rank=3  S3-717363285 | super so1utions | 167 old china bazar street, kolkata, howrah, পশচিমবঙগ
+   PRED TRUE p=1.000 p1=0.998 rank=2  S3-153559686 | sri super solutions parimatge | door no 167 old china bazar street, kolkata, howrah, kolkata, পশচিমবঙগ
+   PRED      p=0.987 p1=0.989 rank=54  S3-750009061 | super center | plot 167 neer mani, , kolkata, howrah, wb
+             p=0.003 p1=0.004 rank=93  S3-230803441 | super & | 22, howrah, kolkata, wb
+             p=0.000 p1=0.000 rank=129  S3-653913342 | services vbymsagtar shopping | block f-167 8, kolkata, howrah, wb
+             p=0.000 p1=0.000 rank=130  S2-753870343 | seven exports | 167, howrah, < >, west bengal
+             p=0.000 p1=0.000 rank=131  S3-262409489 | super my solutions | 9 manmath ganguly road, kolkata, calcutta, পশচিমবঙগ
+
+S1 S1-813581750 | unique south investments | 272 bharat apartments sector 13, rohini, new delhi, delhi   [India, #true=3, in-cands=3, union=2330]
+   PRED TRUE p=1.000 p1=1.000 rank=0  S3-992436196 | unique south investments | 272 bharat apartments sector 13, rohini, new delhi, दिलली
+   PRED TRUE p=1.000 p1=1.000 rank=1  S3-310219922 | unique south investments | 272 bharat apartments sector 13, dl, new delhi, rohini
+   PRED TRUE p=0.997 p1=0.989 rank=2  S2-352006005 | unique south investments | no 271 bharat apartments sector 13, rohini, new delhi, delhi
+   PRED      p=0.912 p1=0.623 rank=189  S3-846219427 | smt unique investments provision pisr | h.no 13, delhi, दिलली
+             p=0.000 p1=0.000 rank=128  S3-809067418 | lotusenterprises | f-272/8, east delhi, new delhi, dl, 1st floor pandav nagar
+             p=0.000 p1=0.000 rank=129  S3-875776376 | salve services | b-272, ground floor, part-i, greater kailash, new delhi, new delhi, south delhi, दिलली
+             p=0.000 p1=0.000 rank=130  S3-393449246 | shree enteprsles | 272 c-436 1st floor defence colony, south delhi, new delhi, dl
+             p=0.000 p1=0.000 rank=131  S3-247863948 | new energy | c/o ntin bakshi, a-272, ist floor, shivalik, new delhi, dl
+
+S1 S1-250361072 | sunrise services | 1, g1, rohini flats, 5th main road, dhandeeshwaram nagar, chennai city corporation, chennai, tamil nadu   [India, #true=1, in-cands=1, union=2555]
+   PRED TRUE p=1.000 p1=1.000 rank=0  S2-822627944 | sunrise services | 1, g1, rohini flats, 5th main road, dhandeeshwaram nagar, chennai city corporation, chennai, tamil nadu
+   PRED      p=0.989 p1=0.952 rank=6  S3-666727288 | sunrise services | vi floor, chennai city corporation, chennai, tn
+             p=0.001 p1=0.001 rank=138  S2-163857381 | sunrise services | b-1, mumbai city, mumbai, maharashtra
+             p=0.000 p1=0.000 rank=127  S2-937461008 | sunrise services | no 012 c/o ratibhan s/o sh. bheem singh vpo mundet khadar, muzaffarnagar, shamli, uttar pradesh
+             p=0.000 p1=0.000 rank=128  S2-58551483 | sunrise services | পশচিমবঙগ, 16 gopal biswas lane, kolkata
+             p=0.000 p1=0.000 rank=129  S2-851479418 | sunrise services | no. 012 c/o ratibhan s/o sh. bheem singh vpo mundet khadar, shamli, muzaffarnagar, uttar pradesh
+             p=0.000 p1=0.000 rank=130  S2-447863079 | sunrise services | sanskruti housing, s. no.13, sh.no.302, 3rd floor, wakad, pune, maharashtra
+             p=0.000 p1=0.000 rank=131  S2-387650478 | sunrise services | 218, singapore green view, premium, 2, biju khedi, indore, madhya pradesh
+
+S1 S1-703950292 | maureen b. burr, cpa, dds pc | 2708 5th street, sacramento, ca   [US, #true=4, in-cands=4, union=2210]
+   PRED TRUE p=1.000 p1=1.000 rank=1  S2-892947089 | maureen b. burr, cpa, | 2708 5th street, sacramento, ca
+   PRED TRUE p=1.000 p1=1.000 rank=2  S2-825547634 | maureen b. burr, cpa, dds pc | 2708 fifth street, sacramento, ca
+   PRED TRUE p=1.000 p1=0.998 rank=4  S3-222288480 | maureen b. b,-cpa, b,-cpa, dds pc | 2708 fifth st, sacramento, california
+   PRED TRUE p=0.998 p1=0.997 rank=0  S2-808170842 | maureen b. burr, cpa, dds | 5th street, sacramento, ca
+   PRED      p=0.996 p1=0.994 rank=3  S2-639441034 | maureen dds burr, zcpa, b. pc | 2708 fifth st, sacramento, ca
+             p=0.000 p1=0.000 rank=129  S2-936807855 | crisp mfa center | 1512 5rd street, ontario, ca
+             p=0.000 p1=0.000 rank=130  S2-838406814 | chiropractic group | 730 5th st, benicia, ca
+             p=0.000 p1=0.000 rank=131  S2-401028002 | cunningham metropolitan center | 12708d 5th ave, victorille, ca
+
+S1 S1-869860565 | thomas polytechnic | lucknow, uttar pradesh, l/d-6, lucknow, sector-1, gomti nagar vistar   [India, #true=4, in-cands=4, union=2086]
+   PRED TRUE p=1.000 p1=1.000 rank=3  S2-208447099 | thomas polttcehnic | l/d-6, sector-1, gomti nagar vistar, lucknow, uttar pradesh
+   PRED TRUE p=1.000 p1=0.999 rank=0  S2-190333472 | thomas polytechnic | l/d-6, sector-1, gomti nagar vistar, lucknow, उततर परदेश
+   PRED TRUE p=1.000 p1=1.000 rank=1  S2-86860305 | thomas polytechnic | l/d-6, sector-1, gomti nagar vistar, lucknow, उततर परदेश
+   PRED TRUE p=1.000 p1=0.999 rank=2  S2-337977303 | sri thomas polytechnc | l/d-6, sector-1, gomti nagar vistar, lucknow, uttar pradesh
+   PRED      p=0.779 p1=0.550 rank=4  S3-407502851 | thomas polytechnic | lucknow, viraj khand gomti nagar, up, l/d-10
+             p=0.002 p1=0.003 rank=70  S3-272321324 | keloxylo | p no-1/b-4 sector-1, gomti nagar vistar, lucknow, up
+             p=0.000 p1=0.000 rank=129  S2-690836644 | kapco grapie | h.no-1/312, sector 1, gomti nagar vistar, lucknow, उततर परदेश
+             p=0.000 p1=0.000 rank=130  S2-581334846 | kapco graphite | h.no-1/333, sector 1, gomti nagar vistar, lucknow, उततर परदेश
+
+S1 S1-428874648 | empire kongsberg | 6710 13 avenue, brooklyn, ny   [US, #true=2, in-cands=2, union=1320]
+   PRED TRUE p=1.000 p1=0.999 rank=6  S3-404889768 | empire kobsbfg | 6710. 13 avenue, new york, brooklyn, pmb 9784
+   PRED TRUE p=0.999 p1=0.998 rank=1  S2-203807596 | empire kohfnlierg | 6710 13 avenue, brooklyn, ny
+   PRED      p=0.928 p1=0.949 rank=0  S2-850267238 | empire kongsberg | 671 13 ave, brooklyn cdp, ny
+             p=0.002 p1=0.002 rank=187  S3-918341202 | #wiliebol | 13 ave, brooklyn, new york
+             p=0.000 p1=0.000 rank=128  S3-405618876 | bracey innovative | new york, brooklyn, 338 13 street
+             p=0.000 p1=0.000 rank=129  S3-943326951 | zephsyn labs | 13 catlin street, auburn, ny
+             p=0.000 p1=0.000 rank=130  S3-653729741 | federil old | 2449 13 st, brooklyn, new york
+             p=0.000 p1=0.000 rank=131  S3-728241695 | elsberry boston | 2332 13 st, brooklyn, new york
+
+S1 S1-852029199 | taix, | 32874 klijiah avenue, kenai peninsula borough, ak   [US, #true=3, in-cands=3, union=445]
+   PRED TRUE p=0.999 p1=0.998 rank=2  S3-721006819 | taix, | 3287 klijiah ave, sodlotna, alaska
+   PRED TRUE p=0.997 p1=0.990 rank=0  S2-444772339 | tigrox | 0032874 klijiah avenue, kenai peninsula borough, ak
+   PRED TRUE p=0.984 p1=0.961 rank=1  S2-492950409 | tax, | 0032874 klijiah avenue, kenai peninsula borough, ak
+   PRED      p=0.925 p1=0.463 rank=3  S2-734713063 | taix, partners | 3287 klijiah avenue, soldotna, ak
+             p=0.008 p1=0.009 rank=45  S3-919264940 | taix center | 32 1100, bounitful, utah
+             p=0.004 p1=0.004 rank=106  S2-431658136 | taix enterprises | 
+             p=0.002 p1=0.002 rank=23  S2-18603547 | taix, | 
+             p=0.000 p1=0.000 rank=130  S2-795495099 | taix golden vaneck west | 82 plymouth ave, kingston, ny
+
+S1 S1-292925034 | classic capital | 123 phelps court, carthage, tn   [US, #true=3, in-cands=3, union=1261]
+   PRED TRUE p=1.000 p1=1.000 rank=0  S2-606962766 | classic capital | 123 phelps court, carthage, tn
+   PRED TRUE p=1.000 p1=1.000 rank=1  S3-817863888 | classic capital | 00123 phelps court, carthage, tennessee
+   PRED TRUE p=1.000 p1=0.999 rank=2  S3-61899662 | classic cailt | 00123 phelps ct, carthage, tennessee
+   PRED      p=0.937 p1=0.827 rank=154  S2-490798878 | classic capital | 
+             p=0.283 p1=0.252 rank=7  S3-384488425 | classic capital | 
+             p=0.273 p1=0.267 rank=5  S3-358072570 | classic capital | 
+             p=0.000 p1=0.000 rank=129  S3-613658012 | tri-state coalition associates | 19926 123rd street court, < >, bonney lake, washington
+             p=0.000 p1=0.000 rank=130  S3-422147495 | maid lp service cleaning | 123 five oaks court, fl 3, lebanon, tennessee
+
+S1 S1-886840050 | physical therapy complete health | 181 union street, benson, az   [US, #true=4, in-cands=4, union=1804]
+   PRED TRUE p=1.000 p1=1.000 rank=0  S2-648909285 | physical tihrepay complete health | 181 union street, benson, az
+   PRED TRUE p=1.000 p1=1.000 rank=1  S3-616488007 | physical therapy complete health | 181 union street, benson, arizona
+   PRED TRUE p=1.000 p1=1.000 rank=2  S2-879672262 | physical therapy complete health llc-authority | 181 union st, benson, az
+   PRED TRUE p=0.998 p1=0.996 rank=7  S3-154428860 | physical therapy complete health | union st, benson, arizona
+   PRED      p=0.769 p1=0.815 rank=9  S3-755547947 | esi | 181 union street, arizona, benson
+             p=0.007 p1=0.065 rank=3  S3-253146624 | physical therapy complete health | benson, 186 union street, arizona
+             p=0.000 p1=0.000 rank=129  S3-857749845 | orthopedic complete health | 1215 pickard rd, cottage grove, tennessee
+             p=0.000 p1=0.000 rank=130  S3-471755352 | surgical complete health | 3531 1/2 norris freeway, tennessee, heiskell
+
+S1 S1-607312695 | banks and savage token | 602 tull court, wentzville, mo   [US, #true=1, in-cands=1, union=2424]
+   PRED TRUE p=0.999 p1=0.997 rank=0  S3-558439466 | banks and savage service | 602 tull court, wentzville, missouri
+   PRED      p=0.825 p1=0.883 rank=1  S3-676633642 | banks and savage token | 
+             p=0.002 p1=0.002 rank=10  S3-758772006 | banks and savage token pc | 
+             p=0.000 p1=0.000 rank=128  S3-148221615 | savage center | 616. montebello ave, osborn, arizona
+             p=0.000 p1=0.000 rank=129  S3-349027355 | savage ford | 
+             p=0.000 p1=0.000 rank=130  S3-737875218 | savage community | 9311 fox run drive, clinton, maryland
+             p=0.000 p1=0.000 rank=131  S3-282522118 | savage arts | minnesota, savge, alabama avenue
+             p=0.000 p1=0.000 rank=132  S3-676027578 | smith & savage | 1 nahum drive, hartford, connecticut
+
+S1 S1-954126640 | infrastructure shabri farm | 11 shilpa apts 43/15 erandwane, pune, maharashtra   [India, #true=4, in-cands=4, union=2597]
+   PRED TRUE p=1.000 p1=0.999 rank=3  S2-978752993 | lnfrastructure shabri farm | 11 shilpa aps 43/15 erandwane, pune, chakan, maharashtra
+   PRED TRUE p=1.000 p1=0.999 rank=0  S2-233136250 | infrastructure shabri farm | 11 shilpa apts 43/15 erandwane, pune, maharashtra
+   PRED TRUE p=1.000 p1=0.999 rank=4  S2-348474381 | infrastructure srhabfdri farm | महाराषटर, 11 shilpa apts 43/15 erandwane, pune
+   PRED TRUE p=1.000 p1=0.999 rank=2  S2-29753893 | infrastructure shdri farm | 11 shilpa apts 43/15 erandwane, pune, maharashtra
+   PRED      p=0.774 p1=0.530 rank=5  S3-73297263 | infrastructure shabri farm | 
+             p=0.000 p1=0.000 rank=129  S3-152385441 | ram infrastructure | c-1401, darshan apts, flat a3, 15th main road, h block, anna nagar west, chennai, தமிழநாடு
+             p=0.000 p1=0.000 rank=130  S2-285968783 | shabri services | 0828 parkar hospital shivaji nagar, ratnagiri, maharashtra
+             p=0.000 p1=0.000 rank=131  S3-398031310 | umbradeltavio | no15, 1st floor, no 113/1a2, rajanna layout near shilpa bakery horamavu agara, bangalore, karnataka
+
+S1 S1-972647244 | north crystal rare | 1412 ross drive, albemarle, nc   [US, #true=5, in-cands=5, union=2196]
+   PRED TRUE p=1.000 p1=1.000 rank=4  S3-740298308 | northcrystal | 1412 ross drive, albemarle, north carolina
+   PRED TRUE p=1.000 p1=1.000 rank=2  S3-88953114 | north crysta1 rare | 1412 ross drve, albemarle, north carolina
+   PRED TRUE p=1.000 p1=1.000 rank=3  S3-560968998 | north | 1412 ross dr, albemarle, north carolina
+   PRED TRUE p=1.000 p1=0.999 rank=0  S2-139312374 | north crystal rare | 1412 ross dr, albemarle, nc
+   PRED TRUE p=1.000 p1=0.998 rank=5  S2-521235921 | rncrystal | 1412 ross dr, albemarle, nc
+   PRED      p=0.961 p1=0.959 rank=148  S3-154565564 | north crtystal rare | 
+   PRED      p=0.916 p1=0.937 rank=125  S2-965001439 | north rare crystal | 
+             p=0.003 p1=0.024 rank=1  S3-905678759 | north crystal rare | 1417 ross drive, albemarle, north carolina
+
+S1 S1-619381687 | optimal construction worldwide | 27 garrecht lane, orangetown, ny   [US, #true=3, in-cands=3, union=1981]
+   PRED TRUE p=0.991 p1=0.728 rank=0  S3-910908793 | optimal construction worldwide | 29 garrecht lane, pearl river, new york
+   PRED TRUE p=0.958 p1=0.850 rank=4  S3-583143425 | optimal construction wrldwdie | 29 garrecht lane, pearl river, new york
+   PRED      p=0.891 p1=0.077 rank=5  S2-764716999 | optimal construction worldwide south | 29 garrecht ln, pearl iver city, ny
+   PRED TRUE p=0.872 p1=0.833 rank=11  S2-337663485 | optimal construction worldwide | 
+             p=0.000 p1=0.000 rank=128  S2-336904401 | wheeler waste | ny, orangetown, 1095 9w
+             p=0.000 p1=0.000 rank=129  S2-702766644 | ace newhold | 41 303, orangetown, ny
+             p=0.000 p1=0.000 rank=130  S2-68570690 | kore k. chiang, p.a. lp | 9w, orangetown, ny
+             p=0.000 p1=0.000 rank=131  S2-434231560 | engracia hayes ares service | 954-958 9w, orangetown, ny
+
+S1 S1-598110805 | lucifer consultants group | west delhi, s-4/50 f/f old mahavir nagar, new delhi, delhi   [India, #true=5, in-cands=5, union=1886]
+   PRED TRUE p=0.997 p1=0.979 rank=1  S3-336791868 | lucifer consultants | hn 81 s-4/50 f/f old mahavir nagar, west delhi, new delhi, dl
+   PRED TRUE p=0.996 p1=0.978 rank=2  S3-777985912 | lucifer consultants | hn 81 s-4/50 f/f old mahavir nagar, new delhi, west delhi, dl
+   PRED TRUE p=0.982 p1=0.958 rank=5  S2-60543570 | lconsultants | west, s-4/5 f/f old mahavir nagar, new delhi, दिलली
+   PRED TRUE p=0.966 p1=0.954 rank=0  S2-208012309 | lucifer consultants group | s-4/5 f/f old mahavir nagar, new delhi, delhi
+   PRED TRUE p=0.946 p1=0.656 rank=3  S2-554349651 | lucifer consultants | s-4/5 f/f old mahavir nagar, new delhi, दिलली
+   PRED      p=0.838 p1=0.483 rank=4  S2-346464973 | lucifer consultants group | delhi, s-4/61 f/f old mahvair nagar, new delhi
+             p=0.000 p1=0.000 rank=129  S3-167456464 | management parth consultants group | h.no 694 d-81b, dl, kh no-337, ugf, guru nanak dev colony, bhalswa dairy, north west delhi
+             p=0.000 p1=0.000 rank=130  S3-828972575 | hotel products | rzh-4/108d flat no-101, 1st floor mahavir enclave, south west delhi, new delhi, dl
+
+S1 S1-554106192 | star healthcare | c/o sandip mitra, p.o. nadia bishnupur bishnupur hospital bazar, nadia, west bengal   [India, #true=1, in-cands=1, union=1435]
+   PRED TRUE p=1.000 p1=1.000 rank=0  S2-68385397 | star healthcare | c/o sandip mitra, p.o. nadia bishnupur bishnupur hospital bazar, nadia, west bengal
+   PRED      p=0.895 p1=0.828 rank=129  S3-803990426 | avilyraecto | c/o sandip mitra, nadia, bishnupur, wb
+             p=0.037 p1=0.035 rank=9  S3-935753574 | star healthcare | 
+             p=0.026 p1=0.023 rank=198  S3-731497032 | star healthcare privne | 
+             p=0.001 p1=0.002 rank=2  S3-716689507 | star estate | 2 c/o sandip mitra, p.o. nadia bishnupur bishnupur hospital bazar, nadia, hridaypur, wb
+             p=0.000 p1=0.000 rank=104  S3-638169773 | ace star healthcare | d-97, d bolck, south ganesh nagar, new delhi, east delhi, delhi, dl
+             p=0.000 p1=0.000 rank=102  S2-745843965 | star healthcare | block d-d/781 c/o, harendra nath ghosh sehara pourhouse, oppsite sehara bazar, burdwan, পশচিমবঙগ
+             p=0.000 p1=0.000 rank=130  S3-837350849 | star healthcare #98118 | 1/178 d vinamra khand, lucknow, gomti nagar, up
+
+S1 S1-986295030 | kelly and green biracilik | ny, 46 central avenue, rye   [US, #true=4, in-cands=4, union=2254]
+   PRED TRUE p=1.000 p1=0.999 rank=2  S3-470638646 | kelly and green biracilik | central ave, rye, new york
+   PRED TRUE p=0.977 p1=0.597 rank=3  S2-774536203 | the kelly and green biracilik | 44 central ave, rye, ny
+   PRED      p=0.911 p1=0.871 rank=108  S3-818132970 | kelly and green biracilik | www.kellyand.com | 
+        TRUE p=0.402 p1=0.177 rank=1  S2-342986197 | kelly and green biracilik | 44 central ave, rye, ny
+        TRUE p=0.291 p1=0.059 rank=0  S2-424207423 | kelly and green biracilik | 44 central avenue, rye, ny
+             p=0.106 p1=0.075 rank=21  S3-569419104 | kelly and green biracilik | 
+             p=0.019 p1=0.004 rank=4  S3-653007187 | the kelly and green biracilik holdings | 49 central avenue, rye, new york
+             p=0.000 p1=0.000 rank=129  S3-172374070 | ciracira | 1705 lemoyne avenue, unit unit c4, salina, ny
+
+S1 S1-191246130 | literacy institute iv | 217 7th street, solomon, ks   [US, #true=3, in-cands=1, union=2719]
+   PRED TRUE p=0.667 p1=0.447 rank=16  S3-206859732 | literacy institute iv | seventh street, soloon, kansas
+   PRED      p=0.662 p1=0.782 rank=94  S2-524686201 | literacy institute iv | 
+             p=0.000 p1=0.000 rank=0  S2-13925314 | literacy institute iv valley | 230 seventh st, solomon, ks
+             p=0.000 p1=0.000 rank=128  S2-327115342 | cardiology safe partners | 206 7nd street, abilene, ks
+             p=0.000 p1=0.000 rank=129  S2-650261059 | patriot strategic-immunopharma | 217 sixth street, cherryvale, ks
+             p=0.000 p1=0.000 rank=130  S2-92719097 | liberty initiative | setrling, ks, 448 7nd street
+             p=0.000 p1=0.000 rank=131  S2-557970767 | ramadyne melglement | 521 7th st, concordia, ks
+             p=0.000 p1=0.000 rank=132  S2-205843855 | rivera, masnhall + richardson | 217 9th street, sibley, ia
+   MISSING-FROM-CANDIDATES  S2-780392011 | literacy ibntuit | 
+   MISSING-FROM-CANDIDATES  S3-420754857 | literacy institute iv commission | 
+
+S1 S1-51464268 | real technology | d-341/ 342, ttc indl. area, turbhe m.i.d.c turbhe, navi mumbai, thane, maharashtra   [India, #true=4, in-cands=4, union=1821]
+   PRED TRUE p=1.000 p1=1.000 rank=3  S3-658442664 | real technology | d-341/ 342, navi mumbai, महाराषटर
+   PRED TRUE p=1.000 p1=1.000 rank=2  S2-853050297 | real technology | d-341/. 342, navi mumbai, thane, maharashtra
+   PRED TRUE p=1.000 p1=1.000 rank=39  S3-883730895 | real tehcnllgy | d-341/ 342, thane, mh
+   PRED TRUE p=1.000 p1=0.999 rank=0  S2-233451226 | real technology | d-341/. 342, ttc indl. area, turbhe m.i.d.c turbhe, navi mumbai, maharashtra
+   PRED      p=0.815 p1=0.810 rank=145  S3-85345843 | miraonyx | d-341/ 342, thane, महाराषटर
+             p=0.034 p1=0.095 rank=197  S2-779812453 | real technology | 
+             p=0.033 p1=0.031 rank=12  S3-25899943 | real technology | 
+             p=0.008 p1=0.016 rank=151  S3-860625005 | ciracira | b3/341-a, mumbai, mh
+
+S1 S1-336970928 | martinez, knight & ricketts calamos | 1011 new hope street, unit unit 65b, norristown borough, pa   [US, #true=3, in-cands=3, union=3498]
+   PRED TRUE p=1.000 p1=0.999 rank=1  S3-93191994 | martinez, knight + ricketts calamos lp | pennsylvania, unit unit 65b, 1011 new hcpe street, norristown
+   PRED TRUE p=0.998 p1=0.990 rank=0  S2-495667292 | martinez, knight + ricketts center | 1011 new hope street, norristown, pa
+   PRED      p=0.996 p1=0.993 rank=76  S3-573781711 | martinez, services & ricketts knight | 
+        TRUE p=0.386 p1=0.387 rank=35  S2-800938140 | martinez, knight & ricketts ca1amos | 
+             p=0.018 p1=0.020 rank=3  S2-588256862 | martinez, knigoto & ricketts liquor | norristown borough, 1012 new hope st, pa
+             p=0.001 p1=0.001 rank=108  S2-210193528 | steiner-partners | 1011 queen street, pottstown, pa
+             p=0.000 p1=0.000 rank=129  S2-207065026 | regional crumrine services | 65th street, new boston, il
+             p=0.000 p1=0.000 rank=130  S2-740779920 | siify management lp | 65a washburn street, pmb 2055, new london, oh
+
+########## partial_recall_matcher (in candidates, not predicted): 1,452 rows (showing 25) ##########
+
+S1 S1-262507324 | illuminati enterprises | sadashiv peth, fl - 8, tilakwadi, nr. bhave school, pune, 1211, maharashtra   [India, #true=7, in-cands=7, union=2334]
+   PRED TRUE p=1.000 p1=1.000 rank=0  S3-59424057 | illuminati enterprises | 1211, sadashiv peth, fl - 8, tilakwadi, nr. bhave school, pune, mh
+   PRED TRUE p=1.000 p1=1.000 rank=1  S2-740792174 | illuminati enterprises | 1211, sadashiv peth, fl - 8, tilakwadi, nr. bhave school, pune, महाराषटर
+   PRED TRUE p=1.000 p1=0.999 rank=3  S3-170341339 | illuminati | 1211, sadashiv peth, fl - 8, tilakwadi, nr. bhave school, pune, mh
+   PRED TRUE p=1.000 p1=0.999 rank=5  S2-346482904 | illuminatientprivate | 1211, sadashiv peth, fl - 8, tilakwadi, nr. bhave school, pune, maharashtra
+   PRED TRUE p=0.997 p1=0.994 rank=4  S2-667202890 | i1luminati enterprises | 1211, sadashiv peth, fl - 8, tilakwadi, nr. bhave school, pune, maharashtra
+        TRUE p=0.282 p1=0.292 rank=27  S3-675393019 | illuminati enterprises | 
+        TRUE p=0.041 p1=0.186 rank=116  S2-550879279 | synveokor | 1211, pune, maharashtra
+             p=0.004 p1=0.004 rank=9  S3-646600582 | lakshmi-pcocfdutecr | 1211, sadashiv peth, fl -8, tilakwadi near bhave school, pune, mh
+
+S1 S1-427989051 | santa brothers | plot no a 1584 / 3614 sastri nagar, bhubaneswar, khordha, orissa   [India, #true=5, in-cands=5, union=1695]
+   PRED TRUE p=1.000 p1=1.000 rank=0  S2-871132971 | santa brothers | plot no a 1584 / 3614 sastri nagar, bhubaneswar, ଓଡିଶା
+   PRED TRUE p=1.000 p1=0.999 rank=2  S2-452434215 | santa brttoahoers | plot no a 1584 / 3614 sastri nagar, bhubaneswar, odisha
+   PRED TRUE p=1.000 p1=0.998 rank=1  S3-391661249 | santa service | plot no a 1584 / 3614 sastri nagar, bhubaneswar, khordha, od
+   PRED TRUE p=0.859 p1=0.867 rank=16  S2-417731879 | santa brothers | 
+        TRUE p=0.237 p1=0.212 rank=12  S3-629920301 | santa brothers | 
+             p=0.000 p1=0.000 rank=129  S3-200112064 | delta brothers | h.no 27/1 east patel nagar, central delhi, new delhi, दिलली
+             p=0.000 p1=0.000 rank=130  S3-629685478 | vedanta & brothers | indore, no 93 nema nagar kesharbag road, mp, indore
+             p=0.000 p1=0.000 rank=131  S2-240940432 | universal om management | plot no-2-1352, 1st floor, sastri nagar, unit-4, bhubaneswar, khordha, odisha
+
+S1 S1-929840252 | sai industries | c/o. mr. mohd kaish khan, ledrahi, ksarai, jaunpur, uttar pradesh   [India, #true=5, in-cands=5, union=1162]
+   PRED TRUE p=1.000 p1=1.000 rank=1  S3-426374239 | sai industries | c/o. mr. mohd kaish khan, ledrahi, ksarai, jaunpur, up
+   PRED TRUE p=1.000 p1=1.000 rank=2  S3-933504135 | sai industries | c/o. mr. mohd kaish khan, ledrahi, ksarai, jaunpur, up
+   PRED TRUE p=1.000 p1=1.000 rank=0  S2-303283519 | sai industries | 999 c/o. mr. mohd kaish khan, ledrahi, ksarai, jaunpur, uttar pradesh
+   PRED TRUE p=0.994 p1=0.987 rank=4  S3-920896710 | sai center | c/o. mr. mohd kaish khan, jaunpur, उततर परदेश
+        TRUE p=0.025 p1=0.022 rank=17  S3-8288343 | sai industries | 
+             p=0.024 p1=0.020 rank=29  S3-687362834 | sai industries | 
+             p=0.002 p1=0.002 rank=93  S3-473629214 | sai industries | 
+             p=0.001 p1=0.001 rank=57  S3-499766575 | sai industries | 
+
+S1 S1-374790219 | vasishta storage | 148 purbachal kalitala main road, kolkata, howrah, west bengal   [India, #true=5, in-cands=5, union=2635]
+   PRED TRUE p=1.000 p1=1.000 rank=1  S2-446126858 | vasishta storage | 148- purbachal kalitala main road, kolkata, kolkata, পশচিমবঙগ
+   PRED TRUE p=1.000 p1=1.000 rank=3  S2-106864185 | vasishta 5torage | h.no 148- purbachal kalitala main road, kolkata, kolkata, west bengal
+   PRED TRUE p=1.000 p1=1.000 rank=2  S3-617924740 | vasishta center | kolkata, 148 purbachal kalitala main road, kolkata, howrah, wb
+   PRED TRUE p=1.000 p1=0.999 rank=0  S3-504191220 | vasishta storage | no 148 purbachal kalitala main road, kolkata, howrah, wb
+        TRUE p=0.281 p1=0.292 rank=30  S3-204759491 | vasishta storage | 
+             p=0.140 p1=0.263 rank=58  S2-422790261 | vasishta-storage | 1-157 purbachal kalitala main road, kolkata, kolkata, পশচিমবঙগ
+             p=0.014 p1=0.018 rank=24  S3-259881798 | dr technologiesprivate.com | h.no 148 purbachal kalitala main road, kolkata, howrah, wb
+             p=0.002 p1=0.002 rank=6  S3-925646165 | vasishta storage | 252, kolkata, , wb
+
+S1 S1-459302858 | tci oil | 1/1, arachamveetil rajah mansion, puthanpalli p.o., thrissur, kerala   [India, #true=7, in-cands=7, union=200]
+   PRED TRUE p=1.000 p1=1.000 rank=2  S3-272638174 | tci oil | thrissur, kl, thrissur, arachamveetil rajah mansion, puthanpalli p.o., 1/1
+   PRED TRUE p=1.000 p1=0.999 rank=4  S3-751770645 | privlte tci oil | 1/1, arachamveetil rajah mansion, puthanpalli p.o., thrissur, kl
+   PRED TRUE p=0.999 p1=0.998 rank=5  S3-26923179 | tci oil | 1/1, thrissur, കേരളം
+   PRED TRUE p=0.996 p1=0.991 rank=1  S2-449956519 | tci oil | 3/1, arachamveetil rajah mansion, puthanpalli p.o., thrissur, kerala
+   PRED TRUE p=0.996 p1=0.991 rank=0  S2-528396928 | tci oil | 3/1, arachamveetil rajah mansion, puthanpalli p.o., thrissur, kerala
+   PRED TRUE p=0.992 p1=0.983 rank=6  S2-544436201 | tcioilcom | 3/1, arachamveetil rajah masion, puthanpalli p.o., thrissur, kerala
+        TRUE p=0.260 p1=0.275 rank=14  S2-724276314 | tci oil | 
+             p=0.182 p1=0.161 rank=8  S3-419410128 | tci oil | 
+
+S1 S1-796234364 | gulf league | 330 burnside road, henderson, nc   [US, #true=4, in-cands=4, union=1941]
+   PRED TRUE p=1.000 p1=1.000 rank=2  S3-81409051 | gulf league | 330 burnside rd, henderson, north carolina
+   PRED TRUE p=1.000 p1=1.000 rank=0  S2-193896931 | gulf league | 330 burnside rd, henderson, nc
+             p=0.087 p1=0.136 rank=1  S2-916512406 | gulf league | 332 burnside road, henderson, nc
+        TRUE p=0.041 p1=0.137 rank=187  S2-541808776 | gulf-league | 
+             p=0.034 p1=0.049 rank=59  S2-539479250 | gulf league | 
+        TRUE p=0.033 p1=0.025 rank=19  S3-585643676 | gulf league | 
+             p=0.030 p1=0.032 rank=76  S3-177119913 | gulf league & | 
+             p=0.003 p1=0.004 rank=3  S2-506884579 | gulf league | 3145 henderson drive, jacksonville, nc
+
+S1 S1-212704599 | a&s trading | plot no-357/3475 & 358/3476, ground floor jaydev vihar, bhubaneswar, khordha, orissa   [India, #true=3, in-cands=3, union=735]
+   PRED TRUE p=1.000 p1=0.999 rank=1  S3-670127619 | a&s-trading | plot no-357/3475 & 358/3476, ground floor jaydev vihar, khordha, bhubaneswar, od
+        TRUE p=0.465 p1=0.175 rank=4  S2-166126708 | smt a+s tefdanig-llp | plot no-357/3475 & 358/3476, ground floor jaydev vihar, bhubaneswar, odisha
+        TRUE p=0.038 p1=0.024 rank=2  S3-452167364 | dr a&s-llp center | plot no-357/3475 & 358/3476, ground floor jaydev vihar, bhubaneswar, khordha, od
+             p=0.003 p1=0.003 rank=0  S3-770901706 | a&s group trading | bhubaneswar, khordha, plot no-357/3475 & 358/3485, od
+             p=0.001 p1=0.001 rank=52  S2-795620639 | big constdrctrions restaurant | plot no-357/3475 & 358/3481, khordha, mayfair lagoon, odisha
+             p=0.000 p1=0.000 rank=105  S3-642348584 | pyrazeph | orissa, bhubaneswar, plotno-272/3396, khordha, lane-5 jaydev vihar, nayapally
+             p=0.000 p1=0.000 rank=130  S2-185087926 | sbm and sons | plot no. - 102, bhanumati bhawan ground floor, jaydev vihar, bhubaneswar, odisha
+             p=0.000 p1=0.000 rank=131  S2-634379886 | sbm & sos | plot no. - 102, bhanumati bhawan ground floor, jaydev vihar, bhubaneswar, odisha
+
+S1 S1-592100888 | international universal international | tamil nadu, no19, nungambakkam chennai, thirumurthy nagar5th street nungambakkam chennai   [India, #true=5, in-cands=5, union=2142]
+   PRED TRUE p=1.000 p1=1.000 rank=2  S3-57362618 | international universal international | no19, thirumurthy nagar5th street nungambakkam chennai, nungambakkam chennai, tn
+   PRED TRUE p=1.000 p1=1.000 rank=3  S3-938187204 | international universal international | no19, thirumurthy nagar5th street nungambakkam chennai, nungambakkam chennai, tn
+   PRED TRUE p=0.986 p1=0.973 rank=0  S2-657059011 | international universal international | no89, thirumurthy nagar5th street nungambakkam chennai, nungambakkam chennai, tamil nadu
+   PRED TRUE p=0.925 p1=0.875 rank=1  S2-46966849 | international international universal | no89 , thirumurthy nagar5th street nungambakkam chennai, tamil nadu
+        TRUE p=0.743 p1=0.754 rank=5  S3-638614349 | iui | no19, thirumurthy nagar5th street nungambakkam chennai, nungambakkam chennai, tamil nadu
+             p=0.003 p1=0.005 rank=4  S3-77223746 | international universla solutions | no0026, தமிழநாடு, thirumurthy nagar5th street nungambakkam chennai, chennai
+             p=0.002 p1=0.002 rank=7  S3-90636656 | sun-infrastructure center | chennai, 6th street, thirumurthy nagar nungambakkam, tn, no.5, chennai
+             p=0.000 p1=0.000 rank=136  S2-705263164 | technologies sbs retail pvt.- | door no 5 , kamdar nagar 1st street, nungambakkam, tamil nadu
+
+S1 S1-636168082 | twenty flower | no.151/2, s.p thottam, pattavarthiayyampalayam, sathyamangalam, erode, tamil nadu   [India, #true=6, in-cands=6, union=2123]
+   PRED TRUE p=1.000 p1=1.000 rank=5  S2-706757701 | twenty folwer | 151/2 , s.p thottam, pattavarthiayyampalayam, sathyamangalam, tamil nadu
+   PRED TRUE p=1.000 p1=1.000 rank=2  S3-673022748 | fluxxylo doing business as twenty flower | no.151/2, s.p thottam, pattavarthiayyampalayam, sathyamangalam, erode, tamil nadu
+   PRED TRUE p=0.999 p1=0.999 rank=1  S2-791702083 | twenty flower | door no 151/2 , s.p thottam, pattavarthiayyampalayam, sathyamangalam, tamil nadu
+   PRED TRUE p=0.997 p1=0.997 rank=0  S3-36553805 | twenty flower | no.51/2, s.p thottam, pattavarthiayyampalayam, sathyamangalam, erode, tn
+   PRED TRUE p=0.990 p1=0.986 rank=6  S3-855492354 | sri twenty flowire | no.51/2, sathyamangalam, erode, tn
+        TRUE p=0.668 p1=0.781 rank=3  S3-930690538 | sri twenty flower | no.51/2, s.p thottam, pattavarthiayyampalayam, sathyamangalam, erode, தமிழநாடு
+             p=0.001 p1=0.001 rank=134  S3-985575581 | flower service | 
+             p=0.000 p1=0.000 rank=129  S3-349216762 | twenty consultants | 026a, howrah, burul, পশচিমবঙগ
+
+S1 S1-100035279 | ruby academy | jaipur, rajasthan, 243, frontier colony adarsh nagar   [India, #true=3, in-cands=3, union=1221]
+   PRED TRUE p=1.000 p1=1.000 rank=2  S2-23487513 | ruby-academy | 243/2, frontier colony adarsh nagar, jaipur, राजसथान
+   PRED TRUE p=0.998 p1=0.995 rank=0  S2-604097060 | ruby academy | 243/2, frontier colony adarsh nagar, jaipur, rajasthan
+             p=0.632 p1=0.538 rank=3  S3-23679938 | ruby academy | 
+        TRUE p=0.375 p1=0.498 rank=53  S3-401552508 | ruby partners | 43, jaipur, rj
+             p=0.002 p1=0.002 rank=155  S3-346789820 | mr @newproperties | h.no 370 243-a, jaipur, rj
+             p=0.001 p1=0.001 rank=1  S3-151620760 | ruby academy | 248, frontier colony adarsh nagar, jaipur, rj
+             p=0.000 p1=0.000 rank=129  S3-654277280 | gold urban marketing | a-243c, jaipur, rj
+             p=0.000 p1=0.000 rank=130  S3-795584053 | new properties | h.no 370 243-a, jaipur, राजसथान
+
+S1 S1-339564404 | highland hennessy | victor, ny, 1077 strong road   [US, #true=4, in-cands=4, union=2237]
+   PRED TRUE p=1.000 p1=1.000 rank=0  S3-630978804 | highland hennessy | 1077 strong rd, victor, new york
+   PRED TRUE p=0.999 p1=0.998 rank=2  S2-411668105 | highland heaangessy | 1077-1081 strong rd, victtor, ny
+        TRUE p=0.538 p1=0.550 rank=11  S2-286602050 | highland hennessy | 
+        TRUE p=0.489 p1=0.554 rank=10  S2-700228887 | highland hennessy | 
+             p=0.030 p1=0.033 rank=1  S2-368575868 | the highland hennessy | 1086 strong rd, victor, ny
+             p=0.003 p1=0.005 rank=76  S2-415055355 | soliumyn nies | 1345 strong rd, victor city, ny
+             p=0.000 p1=0.000 rank=144  S2-168261187 | nicolosi's advertising service | 4115 strong road, mascot, tn
+             p=0.000 p1=0.000 rank=128  S3-123790988 | reid hennessy highland, | 7442-c mission viejo dr, city of el paso, texas
+
+S1 S1-477776195 | dynamic biomedical networks | 270 school hill road, cecil township, pa   [US, #true=3, in-cands=3, union=2008]
+   PRED TRUE p=1.000 p1=1.000 rank=152  S2-871236056 | dynamicbiomedicalnetworks | 27 school hill road, canonsburg, pa
+   PRED TRUE p=1.000 p1=1.000 rank=0  S3-109807026 | dynamic biomedical networks | 270 school hill road, canonsburg, pennsylvania
+        TRUE p=0.224 p1=0.275 rank=14  S3-723948056 | dynamic biomedical networks | 
+             p=0.001 p1=0.001 rank=1  S2-154080244 | dynamic biomedical networks west | 281 school hill road, cecil township, pa
+             p=0.000 p1=0.000 rank=128  S2-864812990 | coastal spire l.l.c. | 270rd avenue, black diamond township, wa
+             p=0.000 p1=0.000 rank=129  S2-379680187 | beacon-altenergy | mcalester township, ok, 10074 united states highway 270
+             p=0.000 p1=0.000 rank=130  S2-240104211 | o 4 value homes coastal | 270 joe mccarthy drive, buffaol township, ny
+             p=0.000 p1=0.000 rank=131  S2-567053265 | lumial cannabis | 270 scalf dr, bluff city township, tn
+
+S1 S1-621130445 | vantyx atlanta | 1016 washington street, viola, id   [US, #true=5, in-cands=4, union=633]
+   PRED TRUE p=1.000 p1=1.000 rank=1  S2-934976721 | vantyx atlanta | washington st, viola, id
+   PRED TRUE p=1.000 p1=0.999 rank=2  S2-152434739 | vantyx atlanta | washington st, viola, id
+   PRED TRUE p=0.954 p1=0.979 rank=0  S2-267200882 | vantyx atlanta | 101 washington street, viola, id
+        TRUE p=0.711 p1=0.877 rank=3  S2-184512193 | vantyx services | 101 washington street, viola, id
+             p=0.000 p1=0.000 rank=128  S3-790278327 | wexdovaio | 216 4th street, unit unit b, lewiston, id
+             p=0.000 p1=0.000 rank=129  S3-565638078 | xylonovi | 510 willow street, unit a3, hailey, id
+             p=0.000 p1=0.000 rank=130  S3-595614311 | clotilda | 125 picabo street, unit f8, ketchum, id
+             p=0.000 p1=0.000 rank=131  S3-756454344 | pyrairi | id, 1117 flannigan creek road, viola
+   MISSING-FROM-CANDIDATES  S3-142712866 | vantyx-services | 1018 washington street, idaho, viola icty
+
+S1 S1-258483909 | leticia williamson investments | 1849 10th street, akron, oh   [US, #true=3, in-cands=3, union=2999]
+   PRED TRUE p=1.000 p1=1.000 rank=1  S3-955903044 | leticia-williamson investments | 1849- 10th street, akron, ohio
+   PRED TRUE p=1.000 p1=0.999 rank=0  S3-894624703 | leticia williamson | 1849- tenth street, akron, ohio
+        TRUE p=0.619 p1=0.381 rank=24  S2-405425085 | leticia williamson investments | 
+             p=0.005 p1=0.008 rank=11  S3-493128074 | korlum | 2122. 10th street, akron, ohio
+             p=0.001 p1=0.001 rank=2  S3-235253974 | leticia williamson skin care | akron, 1851 10th st, ohio
+             p=0.000 p1=0.000 rank=129  S3-542773148 | leticia weserikc transportation | 16817 11th place, bellevue, washington
+             p=0.000 p1=0.000 rank=130  S2-407743532 | williamson sierra | 2723 bath rd, akron, oh
+             p=0.000 p1=0.000 rank=131  S2-652373883 | williamson sierra | 2953 bath rd, akron, oh
+
+S1 S1-66706805 | nimbus innovations | 134, iind floor, shanker road market new rajinder nagar, delhi   [India, #true=4, in-cands=4, union=1461]
+   PRED TRUE p=1.000 p1=1.000 rank=3  S2-880379776 | nimbusinnovations | h.no 106 134, iind floor, shanker road market new rajinder nagar, delhi
+   PRED TRUE p=1.000 p1=0.998 rank=2  S3-369368451 | nimbus innovations | delhi, iind floor, 886 134, divreportingcircle, dl
+   PRED TRUE p=0.999 p1=0.996 rank=1  S3-55001921 | nimbus innovations | iind floor, dl, delhi, 886 134, divreportingcircle
+        TRUE p=0.005 p1=0.007 rank=42  S3-954931807 | nimbus | 
+             p=0.002 p1=0.005 rank=23  S3-853805286 | nimbus money | d-/13, new delhi, dl
+             p=0.001 p1=0.002 rank=65  S3-516281895 | nimbus center | no 2/13, kolkata region, howrah, wb
+             p=0.000 p1=0.000 rank=0  S2-283314647 | nimbus innovations | no 729 155, iind floor, shanker road market new rajinder nagar, delhi
+             p=0.000 p1=0.000 rank=130  S3-952279378 | ms innovations | f-33, ground floor south extension part-1, new delhi, south delhi, दिलली
+
+S1 S1-502109377 | lumay nexpoint | 11042 marine view place, seattle, wa   [US, #true=5, in-cands=5, union=1879]
+   PRED TRUE p=1.000 p1=1.000 rank=0  S3-963365756 | lumay nexpoint | 11042 marine view pl, seattle, washington
+   PRED TRUE p=0.999 p1=0.997 rank=14  S2-933700891 | lumay ncpnit | 10685 marine vew pl, seattle, wa
+   PRED TRUE p=0.996 p1=0.981 rank=1  S2-991068346 | lumay nexpoint | 10685 marine view place, seattle, wa
+   PRED TRUE p=0.995 p1=0.981 rank=2  S2-751000268 | lumay nexpoint | 10685 marine view place, seattle, wa
+             p=0.273 p1=0.233 rank=8  S3-913201077 | lumay nexpoint | 
+        TRUE p=0.206 p1=0.165 rank=7  S3-588661489 | lumay nexpoint | 
+             p=0.000 p1=0.000 rank=129  S3-657970408 | lumay bulkers | 
+             p=0.000 p1=0.000 rank=130  S3-726148363 | lumay flexible | 538 jamie court, rio linda, california
+
+S1 S1-58791338 | gvf weldtech | l-68, chaithanya smaran whitefield - hoskote road, kannamangala, bangalore, karnataka   [India, #true=4, in-cands=4, union=1641]
+   PRED TRUE p=1.000 p1=1.000 rank=0  S3-928142972 | gvf weldtech | l-68, chaithanya smaran whitefield - hoskote road, kannamangala, bangalore, bangalore rural, ka
+   PRED TRUE p=1.000 p1=0.999 rank=2  S3-295762243 | gvf weldtech | bangalore rural, ka, bangalore, l-68
+   PRED TRUE p=0.987 p1=0.925 rank=3  S3-776796543 | gvf weldtech | l-68, bangalore rural, bangalore, ka
+        TRUE p=0.502 p1=0.321 rank=10  S2-685541770 | gvf weldtech | 
+             p=0.000 p1=0.000 rank=128  S3-764417697 | quohalogild+ | t-12, prathama, sree manor, kannamangala main road, bangalore south, bangalore, karnataka
+             p=0.000 p1=0.000 rank=129  S3-567673320 | shri coral clothings | whitefield main road, villa no-15 chaithanya oak villa, whitefield, bangalore, ka
+             p=0.000 p1=0.000 rank=130  S3-549824283 | management peri realtors overseas | h.no 68 datta kripa, south karnataka region, udupi, ka
+             p=0.000 p1=0.000 rank=131  S3-312926643 | md hygienic industries | villa m8-11, chaithanya samarpan, kannamangala, bangalore, ಕರನಾಟಕ
+
+S1 S1-53428252 | chiropractic piedmont clinic | 3303 queen creek road, unit 102, gilbert, az   [US, #true=5, in-cands=5, union=2374]
+   PRED TRUE p=1.000 p1=1.000 rank=0  S2-998315655 | chiropractic piedmont clinic lp | queen creek road, gilbert, az
+   PRED TRUE p=1.000 p1=0.999 rank=1  S3-788375296 | chiropractic primodent clinic | arizona, gilbert, unit 102, 3303. queen creek road
+   PRED TRUE p=0.997 p1=0.994 rank=8  S2-474679583 | chiropractic services piedmont | queen creek rd, gilbert, az
+   PRED TRUE p=0.985 p1=0.980 rank=2  S2-919408109 | chiropractic piedmont-clinic society | 3303 queen creek rd, gilbert, az
+        TRUE p=0.570 p1=0.555 rank=7  S3-91692110 | chiropractic piedmont clinic | 
+             p=0.002 p1=0.002 rank=9  S2-710685802 | taylomext | 3303 queen creek rd, gilbert, az
+             p=0.000 p1=0.000 rank=129  S3-715547580 | royal media | 102 hidden creek dr, swansboro, north carolina
+             p=0.000 p1=0.000 rank=130  S3-695644940 | f o harrell target | 102 hiddn creek drive, swansboro, north carolina
+
+S1 S1-274957183 | om foundation associates | building 3, plot no. 175-176, 11th main, 3rd phase, industrial area, peenya, bengaluru, bangalore, karnataka   [India, #true=5, in-cands=5, union=3031]
+   PRED TRUE p=0.998 p1=0.993 rank=0  S2-997391782 | om foundation associates | building 03, plot no. 175-176, 11th main, 3rd phase, industrial area, peenya, bengaluru, karnataka
+   PRED TRUE p=0.998 p1=0.988 rank=2  S2-723902042 | om fonhdaaion associates | building 03, plot no. 175-176, 11th main, 3rd phase, industrial area, peenya, bengaluru, ಕರನಾಟಕ
+   PRED TRUE p=0.996 p1=0.991 rank=4  S3-132622150 | om foundation associates | bangalore, < >, bengaluru, no. 517 buidling 3, ka
+   PRED TRUE p=0.994 p1=0.950 rank=72  S3-30772262 | sri om foundation associates | no. 517 building 3, < >, bengaluru, bangalore, ka
+        TRUE p=0.493 p1=0.284 rank=127  S3-522010920 | mr om foundation | h.no 517 building 3, < >, bengaluru, bangalore, ka
+             p=0.001 p1=0.001 rank=1  S2-430912513 | sri om foundation associates overseas | building d/24, plot no. 175-176, 11th main, 3rd phase, industrial area, peenya, bengaluru, karnataka
+             p=0.000 p1=0.000 rank=146  S3-928915347 | infinite-enterprises | no.b-41/1, 3rd stage, peenya industrial estate, bangalore, bengaluru, ka
+             p=0.000 p1=0.000 rank=129  S2-891169563 | exports acumen innovations | 28 , 3rd, main road, i phase, peenya industrial area, bangalore., karnataka
+
+S1 S1-402943521 | voice city | unit no. 16, sadan no. 1 midc, bhosari, pune, maharashtra   [India, #true=6, in-cands=6, union=1641]
+   PRED TRUE p=1.000 p1=1.000 rank=0  S2-551684939 | voice city | unit no. 16, sadan no. 1 midc, bhosari, pune, maharashtra
+   PRED TRUE p=1.000 p1=0.999 rank=2  S3-525016564 | shri voice city | unit no. 16, sadan no. 1 midc, bhosari, pune, महाराषटर
+   PRED TRUE p=1.000 p1=0.999 rank=1  S2-745410951 | voice city | unit no. 16, sadan no. 1 midc, bhosari, pune, महाराषटर
+   PRED TRUE p=1.000 p1=0.999 rank=4  S3-397386731 | voice city private-ltd | unit no. 16, pune, mh
+   PRED TRUE p=1.000 p1=0.998 rank=3  S2-573501877 | dr voice city | unit no. 16, sadan no. 1 midc, bhosari, pune, maharashtra
+             p=0.582 p1=0.509 rank=24  S3-894317816 | voice city provlete | 
+        TRUE p=0.464 p1=0.487 rank=7  S2-426965778 | voice city | 
+             p=0.000 p1=0.000 rank=129  S3-74978308 | corrosion brothers public | pune, महाराषटर, pune, sct 1 pl no 3 shop no 5 nasik rd bhosari pune bhosari
+
+S1 S1-839954952 | united patriot lakeshore | 606 32nd street, austin, tx   [US, #true=4, in-cands=4, union=2840]
+   PRED TRUE p=1.000 p1=1.000 rank=6  S3-960794799 | united patriot lakeshore | austint ownship, texas, 606 32st street
+   PRED TRUE p=1.000 p1=1.000 rank=1  S3-7482300 | kelodrexio | 606 32nd street, tx, austin
+   PRED TRUE p=1.000 p1=1.000 rank=0  S2-746345362 | united patriot lakeshore | 606 32nd street, austin, tx
+        TRUE p=0.694 p1=0.762 rank=4  S2-984438568 | umbravera | 606 32nd street, austin, tx
+             p=0.000 p1=0.000 rank=128  S3-138975992 | marci1le kapp quality services | 606 43rd st, austin, texas
+             p=0.000 p1=0.000 rank=129  S3-829477816 | interstate alliance | 606 2nd saint, iowa, buffalo
+             p=0.000 p1=0.000 rank=130  S3-429823221 | jaxveo | 606 shelby place, midlothian, tx
+             p=0.000 p1=0.000 rank=131  S3-609765288 | zetaumbra | 606 finlee way, tioga, tx
+
+S1 S1-719730981 | human rights foundation | 401 pearl st, walnut, ia   [US, #true=6, in-cands=5, union=2236]
+   PRED TRUE p=1.000 p1=1.000 rank=0  S2-993893267 | human rights foundation | 0401 pearl st, walnut, ia
+   PRED TRUE p=1.000 p1=1.000 rank=1  S3-419257461 | human rights foundation | 401 pearl st, walnut, iowa
+   PRED TRUE p=0.999 p1=0.994 rank=3  S3-225911905 | human rights foundation | pearl st, walnut, iowa
+   PRED TRUE p=0.996 p1=0.991 rank=4  S2-925871225 | foundationrightshuman | 0401 pearl st, ia, walnut
+             p=0.022 p1=0.028 rank=70  S3-47706052 | human rights foundation | 
+             p=0.019 p1=0.017 rank=22  S3-531031034 | human rights foundation | 
+             p=0.019 p1=0.017 rank=25  S3-937713048 | human rights foundation | 
+             p=0.018 p1=0.031 rank=72  S3-974424098 | human rights foundation | 
+   MISSING-FROM-CANDIDATES  S2-50242596 | human rights-foundation | 
+
+S1 S1-317429792 | solutions flexible services | 102, silvershine divine rd sola tal, daskroi, ahmedabad, ahmedabad, gujarat   [India, #true=4, in-cands=3, union=2361]
+   PRED TRUE p=1.000 p1=1.000 rank=1  S3-232766420 | services solutions flexible | d/102, silvershine divine rd sola tal, daskroi, ahmedabad, ahmedabad, ગુજરાત
+   PRED TRUE p=1.000 p1=1.000 rank=0  S3-23425793 | solutions services flexible | d/102, silvershine divine rd sola tal, daskroi, ahmedabad, ahmedabad, ગુજરાત
+        TRUE p=0.646 p1=0.443 rank=12  S2-526892211 | solutions flexible services | 
+             p=0.002 p1=0.002 rank=4  S2-209922471 | solutions flexibge farm | h.no 274 111, silvershine divine rd sola tal, daskroi, ahmedabad, ahmedabad, , gujarat
+             p=0.000 p1=0.000 rank=146  S3-836921845 | belobrix | 102, chimanbhai ki chawl dunori faliya, a/p balitha, vapi, valsad, gujarat
+             p=0.000 p1=0.000 rank=128  S3-997863316 | quoiri labs | 16/102, shritapbhaktidharmtownshipnr.newlpsavanischool, canalroad, pa, lanpur, surat, gujarat
+             p=0.000 p1=0.000 rank=129  S2-770353992 | prime & | b/102 maharaja avenue, new c.g. rd chandkheda, ahmedabad, gujarat
+             p=0.000 p1=0.000 rank=130  S2-246013752 | premier systems | 102, ahmedabad, gujarat
+   MISSING-FROM-CANDIDATES  S2-720020931 | solutions flexinble services | 
+
+S1 S1-422435597 | ailina cai machines | 32313 green acres loop, cottage grove, or   [US, #true=5, in-cands=5, union=1144]
+   PRED TRUE p=1.000 p1=1.000 rank=0  S3-403041378 | ailina cai machines | 32313 green acres loop, cottage grove, oregon
+   PRED TRUE p=1.000 p1=1.000 rank=3  S3-768123865 | ailina cai partners | 32313 green aches loop, cottage grove, oregon
+   PRED TRUE p=1.000 p1=0.999 rank=2  S2-476757469 | ailina cai service | 32313 green acres loop, cottage grove, or
+   PRED TRUE p=0.999 p1=1.000 rank=1  S2-229434435 | the ailina cai machines | 32313 green acres loop, cottage grove, or
+        TRUE p=0.647 p1=0.814 rank=4  S2-602149972 | allina cai machines | green acres loop, cottage grove, or
+             p=0.000 p1=0.000 rank=129  S3-978755375 | cai physical therapy of kokomo | concord avenue, kokomo, indiana
+             p=0.000 p1=0.000 rank=130  S3-17466870 | of physical therapy cai kokomo | indiana, kokomo, 5001 concord avenue
+             p=0.000 p1=0.000 rank=131  S3-804506823 | cox, cai and abplanalp services | 11351 whispering oaks drive, fl. 0, st louis, missouri
+
+S1 S1-429964372 | omkar brothers | 1-98/10/105, opp high tech city, shaikpet, hyderabad, telangana   [India, #true=6, in-cands=6, union=3070]
+   PRED TRUE p=1.000 p1=0.999 rank=4  S2-908260414 | omkar brothers | 1-98/10/105, opp high tech city, shaikpet, తెలంగాణ
+   PRED TRUE p=1.000 p1=0.999 rank=1  S2-208467933 | omkar brothers | 1-98/10/105, opp high tech city, shaikpet, telangana
+   PRED TRUE p=1.000 p1=1.000 rank=2  S2-397349195 | omkar brothers | 1-98/10/105, opp high tech city, shaikpet, telangana
+   PRED TRUE p=0.958 p1=0.947 rank=5  S3-383047748 | omkar brothers | 3-98/10/105, shaikpet, hyderabad, tg
+   PRED TRUE p=0.757 p1=0.747 rank=6  S3-411794922 | 0mkar brothers | opp high tech city, 3-98/10/105, shaikpet, tg, hyderabad
+        TRUE p=0.629 p1=0.828 rank=0  S3-261644265 | omkar brothers | 3-98/10/105, opp high tech city, shaikpet, hyderabad, tg
+             p=0.001 p1=0.002 rank=10  S3-485549406 | dr omkar &-brothers | 115/4, mh, mumbai, mumbai city
+             p=0.000 p1=0.000 rank=136  S3-699419225 | omkar changer | no 20 / 3 priyadarshini colonynear r t o amravati rd, nagpur, mh

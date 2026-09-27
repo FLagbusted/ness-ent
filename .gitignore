@@ -1,0 +1,20 @@
+# competition data and everything derived from it
+dataset/
+*.parquet
+*.tsv
+*.npz
+output*/
+loco_*/
+eda_out/
+utils/
+# model artifacts (rebuild with train_matcher.py; large)
+matcher_*/
+m*_val_scores.npz
+# python / env
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+*.png
+*.jpg
